@@ -1,0 +1,1201 @@
+hospital_id,city,symptom,predicted_disease,specialization,consultation_fee,estimated_meds_cost,total_estimated_cost,wait_time_mins,hospital_rating,doctor_exp_years,languages,distance_km,insurance_accepted,match_score
+HOSP_0001,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,300,1395,1695,75,4.4,28,"English, Tamil",2.9,1,95
+HOSP_0002,Vijayawada,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,1069,1869,44,3.8,23,"English, Hindi",8.0,1,84
+HOSP_0003,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,2858,3158,56,3.6,18,"English, Tamil",9.9,0,62
+HOSP_0004,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,3188,3988,53,3.5,27,"English, Kannada",14.3,1,85
+HOSP_0005,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,2439,2939,74,3.7,10,"English, Tamil",22.8,1,99
+HOSP_0006,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,2913,3913,18,3.8,20,"English, Telugu",11.5,1,95
+HOSP_0007,Delhi,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,2643,3643,67,4.4,27,"English, Kannada",15.4,1,88
+HOSP_0008,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,2868,3068,15,3.8,26,"English, Tamil",5.4,1,94
+HOSP_0009,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,2578,3378,55,4.9,11,"English, Kannada",8.6,1,82
+HOSP_0010,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,2195,2695,49,4.2,7,"English, Tamil",19.1,1,73
+HOSP_0011,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,3239,3489,65,3.5,9,"English, Hindi",8.2,1,89
+HOSP_0012,Kadapa,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,1978,2778,57,3.8,15,"English, Tamil",17.5,0,65
+HOSP_0013,Chennai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,1663,2163,44,4.8,28,"English, Kannada",9.2,0,60
+HOSP_0014,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,2980,3980,17,3.5,10,"English, Tamil",10.7,1,83
+HOSP_0015,Vijayawada,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,1436,1636,76,5.0,22,"English, Kannada",6.7,1,96
+HOSP_0016,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,2460,2760,16,4.3,24,"English, Hindi, Telugu",9.0,1,61
+HOSP_0017,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,1995,2245,84,3.9,6,"English, Tamil",9.6,1,97
+HOSP_0018,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,497,747,25,4.7,18,"English, Hindi",4.2,1,75
+HOSP_0019,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,3111,3611,73,3.8,28,"English, Tamil",20.3,1,66
+HOSP_0020,Delhi,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,2259,2459,53,4.9,3,"English, Tamil",8.9,1,82
+HOSP_0021,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,500,2491,2991,74,3.9,3,"English, Kannada",14.2,0,68
+HOSP_0022,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,3163,3463,17,4.8,24,"English, Hindi",16.2,1,67
+HOSP_0023,Vijayawada,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,553,1053,39,3.5,16,"English, Telugu",12.4,1,95
+HOSP_0024,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,697,897,35,3.8,26,"English, Tamil",16.6,1,71
+HOSP_0025,Bangalore,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,1345,2345,44,5.0,15,"English, Tamil",22.4,1,93
+HOSP_0026,Vijayawada,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,2631,2831,78,4.8,18,"English, Tamil",14.5,1,76
+HOSP_0027,Chennai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,2824,3824,60,4.9,5,"English, Kannada",0.9,0,90
+HOSP_0028,Chennai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,1439,1639,77,4.0,25,"English, Hindi",8.3,1,84
+HOSP_0029,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,869,1869,81,4.4,26,"English, Telugu",15.6,0,61
+HOSP_0030,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,1084,1334,47,3.7,24,"English, Hindi, Telugu",7.8,1,84
+HOSP_0031,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,3250,3500,71,4.4,22,"English, Hindi",2.2,1,73
+HOSP_0032,Bangalore,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,1133,1633,46,4.4,24,"English, Tamil",11.9,1,81
+HOSP_0033,Mumbai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,2652,3652,66,3.6,17,"English, Tamil",3.6,1,64
+HOSP_0034,Vijayawada,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,1291,2091,61,4.5,10,"English, Kannada",3.8,0,89
+HOSP_0035,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,1381,1681,69,3.9,28,"English, Hindi, Telugu",2.5,1,71
+HOSP_0036,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,933,1183,15,4.2,24,"English, Hindi",16.7,1,75
+HOSP_0037,Kadapa,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,3137,3937,81,3.9,18,"English, Tamil",19.1,1,73
+HOSP_0038,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,2441,2641,76,4.6,14,"English, Telugu",19.2,0,95
+HOSP_0039,Vijayawada,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,656,1656,37,3.6,24,"English, Hindi, Telugu",22.2,1,69
+HOSP_0040,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,1931,2181,15,4.3,15,"English, Kannada",15.6,0,61
+HOSP_0041,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,1151,1451,38,4.5,5,"English, Kannada",3.6,0,96
+HOSP_0042,Bangalore,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,1740,1940,54,4.9,14,"English, Hindi, Telugu",2.2,1,61
+HOSP_0043,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,2382,2632,22,4.1,12,"English, Telugu",8.8,1,66
+HOSP_0044,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,1949,2749,89,4.8,6,"English, Hindi",20.2,1,69
+HOSP_0045,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,300,1422,1722,50,4.1,9,"English, Hindi, Telugu",6.3,1,82
+HOSP_0046,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,2121,2321,31,4.3,22,"English, Hindi",8.3,0,95
+HOSP_0047,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,375,575,23,4.0,16,"English, Kannada",14.5,1,64
+HOSP_0048,Chennai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,3295,3495,67,4.7,27,"English, Hindi, Telugu",23.3,0,73
+HOSP_0049,Hyderabad,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,1538,1838,89,3.7,14,"English, Hindi",19.2,1,97
+HOSP_0050,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,3293,3493,41,4.6,7,"English, Hindi, Telugu",2.6,0,60
+HOSP_0051,Delhi,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,1624,1824,18,4.0,21,"English, Hindi, Telugu",9.8,1,69
+HOSP_0052,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,472,1472,27,4.1,28,"English, Kannada",3.4,1,98
+HOSP_0053,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,2695,3495,76,4.1,19,"English, Hindi",21.8,1,65
+HOSP_0054,Chennai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,3019,3819,59,3.6,23,"English, Hindi, Telugu",24.8,1,94
+HOSP_0055,Chennai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,2394,2594,63,4.5,3,"English, Hindi, Telugu",17.6,1,82
+HOSP_0056,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,1653,2153,30,4.8,14,"English, Kannada",8.7,1,95
+HOSP_0057,Mumbai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,500,839,1339,55,3.9,29,"English, Hindi",7.4,1,72
+HOSP_0058,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,1881,2681,49,4.7,20,"English, Tamil",18.3,1,61
+HOSP_0059,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,1176,1426,19,3.5,3,"English, Hindi",12.3,0,70
+HOSP_0060,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,3174,3374,41,4.4,3,"English, Telugu",1.4,1,80
+HOSP_0061,Delhi,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,1968,2768,17,4.3,7,"English, Hindi, Telugu",23.6,0,76
+HOSP_0062,Vijayawada,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,2201,2401,15,4.9,15,"English, Kannada",6.1,1,91
+HOSP_0063,Chennai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,549,799,48,4.2,5,"English, Tamil",8.0,0,64
+HOSP_0064,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,923,1123,61,4.1,7,"English, Hindi, Telugu",16.2,0,98
+HOSP_0065,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,1629,2629,44,4.3,21,"English, Telugu",9.0,1,83
+HOSP_0066,Vijayawada,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,250,2428,2678,19,4.7,12,"English, Hindi",12.6,1,83
+HOSP_0067,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,2400,3400,80,4.0,13,"English, Tamil",6.4,1,82
+HOSP_0068,Vijayawada,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,500,659,1159,18,4.0,5,"English, Tamil",13.1,0,78
+HOSP_0069,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,903,1153,56,3.8,23,"English, Hindi",13.6,1,93
+HOSP_0070,Vijayawada,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,250,2136,2386,41,3.6,27,"English, Hindi",17.4,1,76
+HOSP_0071,Chennai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,2355,2555,66,3.8,26,"English, Telugu",19.1,1,61
+HOSP_0072,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,3046,4046,70,3.7,5,"English, Tamil",13.5,1,97
+HOSP_0073,Bangalore,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,1954,2154,42,3.5,27,"English, Hindi",5.7,1,84
+HOSP_0074,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,2372,2872,82,4.0,11,"English, Hindi, Telugu",12.2,1,81
+HOSP_0075,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,3095,3295,56,3.9,8,"English, Kannada",16.3,1,65
+HOSP_0076,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,1760,1960,36,3.8,8,"English, Kannada",21.3,1,89
+HOSP_0077,Kadapa,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,542,842,45,4.1,6,"English, Telugu",14.6,0,74
+HOSP_0078,Vijayawada,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,1246,2246,76,4.9,17,"English, Tamil",14.5,1,64
+HOSP_0079,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,500,2110,2610,34,3.9,17,"English, Hindi",15.5,1,96
+HOSP_0080,Kadapa,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,500,3192,3692,17,3.6,20,"English, Telugu",13.9,1,61
+HOSP_0081,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,620,1120,77,4.5,19,"English, Hindi",15.1,1,94
+HOSP_0082,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,535,1535,64,3.7,26,"English, Tamil",23.5,1,94
+HOSP_0083,Vijayawada,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,2155,2655,86,4.7,7,"English, Kannada",4.5,1,64
+HOSP_0084,Bangalore,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,2921,3921,18,4.0,12,"English, Hindi",17.2,1,99
+HOSP_0085,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,2188,3188,37,4.2,3,"English, Hindi",9.2,1,61
+HOSP_0086,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,300,497,797,20,4.0,21,"English, Telugu",3.9,1,88
+HOSP_0087,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,1554,2554,41,4.7,8,"English, Hindi",8.1,1,92
+HOSP_0088,Vijayawada,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,250,816,1066,88,4.0,8,"English, Hindi, Telugu",3.2,0,83
+HOSP_0089,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,2394,3194,82,4.6,4,"English, Tamil",16.2,1,95
+HOSP_0090,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,2416,2716,34,3.8,12,"English, Telugu",23.7,1,72
+HOSP_0091,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,1939,2139,74,4.4,14,"English, Kannada",23.0,1,96
+HOSP_0092,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,500,2228,2728,65,4.6,10,"English, Hindi",23.2,1,96
+HOSP_0093,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,2767,3767,68,4.8,3,"English, Tamil",15.0,1,68
+HOSP_0094,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,2660,2910,40,4.0,22,"English, Hindi",21.7,0,66
+HOSP_0095,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,2694,2944,31,4.4,29,"English, Kannada",22.9,1,84
+HOSP_0096,Vijayawada,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,2179,2979,47,4.0,13,"English, Telugu",0.8,1,66
+HOSP_0097,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,988,1188,34,4.1,10,"English, Hindi",7.8,1,89
+HOSP_0098,Bangalore,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,2379,2679,44,3.8,15,"English, Hindi, Telugu",12.1,1,77
+HOSP_0099,Vijayawada,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,3357,3657,80,4.3,19,"English, Telugu",12.7,1,63
+HOSP_0100,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,1099,1399,24,3.9,16,"English, Telugu",10.5,1,87
+HOSP_0101,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,3379,4179,79,4.3,5,"English, Tamil",12.9,1,96
+HOSP_0102,Bangalore,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,3354,3554,22,3.6,26,"English, Tamil",24.1,0,80
+HOSP_0103,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,1074,1324,47,3.8,21,"English, Hindi, Telugu",22.0,1,77
+HOSP_0104,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,2239,3039,25,3.9,4,"English, Tamil",15.0,1,64
+HOSP_0105,Vijayawada,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,1204,2204,67,3.9,22,"English, Telugu",19.2,1,69
+HOSP_0106,Vijayawada,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,3486,3686,28,4.6,4,"English, Hindi, Telugu",10.4,1,81
+HOSP_0107,Vijayawada,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,500,3013,3513,72,4.9,4,"English, Hindi, Telugu",1.0,0,80
+HOSP_0108,Chennai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,3281,3481,48,4.3,27,"English, Telugu",18.1,1,81
+HOSP_0109,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,945,1145,54,3.9,15,"English, Hindi",12.6,1,76
+HOSP_0110,Hyderabad,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,500,1001,1501,60,3.6,24,"English, Tamil",5.0,1,85
+HOSP_0111,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,300,1619,1919,25,4.0,19,"English, Tamil",7.8,1,93
+HOSP_0112,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,1050,1300,34,3.7,22,"English, Tamil",21.2,0,93
+HOSP_0113,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,250,1824,2074,87,3.6,19,"English, Hindi",12.6,1,84
+HOSP_0114,Bangalore,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,1552,1802,58,5.0,8,"English, Telugu",3.0,1,76
+HOSP_0115,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,311,511,76,4.9,21,"English, Hindi, Telugu",19.1,1,75
+HOSP_0116,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,1591,1791,29,4.5,11,"English, Hindi, Telugu",16.9,1,75
+HOSP_0117,Kadapa,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,250,3328,3578,21,3.6,23,"English, Hindi",5.2,1,82
+HOSP_0118,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,2719,3719,53,4.2,29,"English, Telugu",16.3,1,83
+HOSP_0119,Chennai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,500,1421,1921,17,4.5,10,"English, Telugu",18.3,1,74
+HOSP_0120,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,3329,4129,39,4.6,3,"English, Hindi, Telugu",15.6,1,94
+HOSP_0121,Mumbai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,550,1550,27,4.3,5,"English, Tamil",24.9,1,88
+HOSP_0122,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,571,771,70,3.9,27,"English, Telugu",2.7,1,79
+HOSP_0123,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,2350,3350,59,4.0,20,"English, Kannada",18.0,1,60
+HOSP_0124,Vijayawada,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,698,898,63,4.1,6,"English, Kannada",23.9,1,96
+HOSP_0125,Chennai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,1106,2106,70,4.8,26,"English, Tamil",22.6,0,66
+HOSP_0126,Chennai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,300,1907,2207,34,4.8,24,"English, Hindi, Telugu",20.9,1,93
+HOSP_0127,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,3100,3300,17,4.7,7,"English, Hindi, Telugu",15.9,1,68
+HOSP_0128,Chennai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,2076,2326,75,3.9,5,"English, Telugu",12.5,0,62
+HOSP_0129,Vijayawada,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,3491,4291,87,4.8,7,"English, Telugu",11.7,1,87
+HOSP_0130,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,300,1220,1520,56,4.7,10,"English, Hindi",14.0,1,83
+HOSP_0131,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,2675,3675,19,3.6,20,"English, Hindi, Telugu",5.9,1,64
+HOSP_0132,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,3411,3661,59,4.2,21,"English, Telugu",14.5,1,99
+HOSP_0133,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,1612,2412,20,4.3,18,"English, Kannada",21.3,0,72
+HOSP_0134,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,2016,2216,56,3.7,29,"English, Kannada",4.4,0,90
+HOSP_0135,Mumbai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,1874,2174,45,3.5,4,"English, Hindi, Telugu",12.9,1,91
+HOSP_0136,Vijayawada,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,300,1436,1736,31,3.7,4,"English, Kannada",0.7,0,65
+HOSP_0137,Vijayawada,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,1556,1806,77,4.1,17,"English, Hindi, Telugu",3.0,0,91
+HOSP_0138,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,1030,1530,78,4.6,24,"English, Hindi",14.8,1,85
+HOSP_0139,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,1003,1253,61,5.0,6,"English, Tamil",3.7,1,66
+HOSP_0140,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,3226,3426,46,4.7,28,"English, Telugu",4.4,1,63
+HOSP_0141,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,338,1138,29,4.7,13,"English, Kannada",21.1,1,79
+HOSP_0142,Bangalore,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,3196,3496,70,4.1,23,"English, Hindi, Telugu",16.1,1,64
+HOSP_0143,Bangalore,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,869,1069,52,3.8,5,"English, Hindi",16.5,1,74
+HOSP_0144,Bangalore,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,2777,3277,31,3.6,10,"English, Tamil",21.2,1,62
+HOSP_0145,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,1859,2659,74,5.0,22,"English, Hindi",0.5,1,79
+HOSP_0146,Delhi,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,1316,2316,74,3.6,24,"English, Hindi, Telugu",7.1,1,70
+HOSP_0147,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,573,1373,78,4.1,17,"English, Tamil",17.5,0,97
+HOSP_0148,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,1411,2411,55,3.9,27,"English, Kannada",17.7,1,91
+HOSP_0149,Chennai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,301,501,47,4.8,3,"English, Hindi, Telugu",2.4,1,61
+HOSP_0150,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,442,692,58,3.7,13,"English, Hindi, Telugu",17.8,1,65
+HOSP_0151,Kadapa,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,1015,1215,22,4.9,22,"English, Tamil",12.4,1,75
+HOSP_0152,Vijayawada,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,250,321,571,40,4.2,11,"English, Kannada",18.4,1,71
+HOSP_0153,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,1624,1824,33,5.0,6,"English, Hindi, Telugu",5.0,1,91
+HOSP_0154,Chennai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,2289,2539,32,4.5,7,"English, Hindi",12.6,1,94
+HOSP_0155,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,2282,3282,21,4.2,23,"English, Telugu",18.7,1,63
+HOSP_0156,Chennai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,2879,3879,74,3.6,19,"English, Tamil",14.7,1,93
+HOSP_0157,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,250,3279,3529,20,4.5,21,"English, Tamil",7.5,1,62
+HOSP_0158,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,3258,4058,40,4.6,18,"English, Telugu",6.3,0,96
+HOSP_0159,Vijayawada,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,852,1652,76,3.6,17,"English, Hindi",16.7,1,76
+HOSP_0160,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,327,527,80,4.8,7,"English, Hindi",19.5,1,82
+HOSP_0161,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,929,1229,28,4.0,12,"English, Kannada",20.8,1,79
+HOSP_0162,Chennai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,2660,2860,78,4.0,27,"English, Tamil",18.5,1,96
+HOSP_0163,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,2147,2647,42,4.8,8,"English, Kannada",13.7,1,73
+HOSP_0164,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,1343,2143,40,3.6,25,"English, Tamil",11.6,0,64
+HOSP_0165,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,1529,1829,26,3.7,23,"English, Telugu",24.1,1,93
+HOSP_0166,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,1508,2308,53,4.2,17,"English, Tamil",12.5,1,79
+HOSP_0167,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,3093,3343,22,5.0,3,"English, Hindi, Telugu",11.4,0,81
+HOSP_0168,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,2774,3024,88,3.5,20,"English, Hindi",20.9,0,71
+HOSP_0169,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,2287,3287,47,4.4,18,"English, Hindi, Telugu",16.8,1,87
+HOSP_0170,Mumbai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,874,1874,87,4.8,27,"English, Hindi, Telugu",19.7,1,70
+HOSP_0171,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,3473,4273,18,4.5,8,"English, Telugu",19.2,1,78
+HOSP_0172,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,1667,1867,68,4.5,23,"English, Hindi",9.5,1,80
+HOSP_0173,Chennai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,1796,2596,47,3.9,19,"English, Tamil",6.1,1,94
+HOSP_0174,Mumbai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,1326,2326,40,4.9,4,"English, Kannada",1.1,1,71
+HOSP_0175,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,3322,4122,58,4.2,13,"English, Telugu",18.0,1,80
+HOSP_0176,Kadapa,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,1447,2247,29,3.9,13,"English, Tamil",2.0,0,81
+HOSP_0177,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,2216,3216,82,3.9,22,"English, Tamil",23.3,1,67
+HOSP_0178,Chennai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,1981,2981,16,3.9,6,"English, Telugu",3.5,1,90
+HOSP_0179,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,2506,3306,85,3.9,19,"English, Telugu",5.0,0,79
+HOSP_0180,Vijayawada,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,1708,2708,58,3.6,12,"English, Tamil",0.6,1,80
+HOSP_0181,Delhi,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,250,820,1070,29,4.4,28,"English, Hindi",21.1,0,75
+HOSP_0182,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,1616,1916,82,3.9,21,"English, Kannada",10.9,1,77
+HOSP_0183,Chennai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,3340,3590,69,4.4,17,"English, Hindi",18.6,0,80
+HOSP_0184,Vijayawada,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,2766,3566,85,4.3,12,"English, Hindi",10.1,1,84
+HOSP_0185,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,1877,2677,53,4.6,13,"English, Kannada",20.6,1,97
+HOSP_0186,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,1305,2105,50,3.6,3,"English, Kannada",5.2,1,65
+HOSP_0187,Kadapa,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,2104,2604,63,4.7,7,"English, Kannada",6.2,1,97
+HOSP_0188,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,2728,3728,72,4.0,8,"English, Telugu",24.9,1,76
+HOSP_0189,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,415,1415,22,4.4,28,"English, Kannada",24.1,1,75
+HOSP_0190,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,932,1932,69,4.6,19,"English, Kannada",24.5,1,89
+HOSP_0191,Kadapa,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,2974,3474,19,4.6,26,"English, Kannada",6.5,1,79
+HOSP_0192,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,1312,1512,30,4.3,22,"English, Telugu",2.0,1,82
+HOSP_0193,Hyderabad,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,2708,2958,16,4.9,11,"English, Hindi",8.0,1,82
+HOSP_0194,Chennai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,610,860,20,4.9,13,"English, Kannada",21.4,1,97
+HOSP_0195,Hyderabad,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,1993,2293,20,3.7,9,"English, Kannada",20.6,1,94
+HOSP_0196,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,3278,3528,34,4.4,12,"English, Hindi",14.6,1,92
+HOSP_0197,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,3180,4180,68,4.7,22,"English, Tamil",23.8,0,72
+HOSP_0198,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,3341,4141,82,3.7,6,"English, Hindi, Telugu",14.0,0,91
+HOSP_0199,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,1981,2981,74,4.8,13,"English, Telugu",16.4,1,64
+HOSP_0200,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,2692,2942,16,4.2,20,"English, Hindi, Telugu",15.7,1,82
+HOSP_0201,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,448,748,87,4.7,16,"English, Tamil",4.9,1,92
+HOSP_0202,Chennai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,2448,2648,66,3.8,6,"English, Kannada",21.3,1,96
+HOSP_0203,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,1067,2067,21,4.3,24,"English, Hindi, Telugu",10.0,0,61
+HOSP_0204,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,1041,2041,35,4.6,28,"English, Hindi, Telugu",5.8,1,80
+HOSP_0205,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,472,1272,46,4.2,5,"English, Hindi",13.9,1,85
+HOSP_0206,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,923,1423,66,4.8,12,"English, Hindi, Telugu",23.9,1,76
+HOSP_0207,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,871,1071,62,3.9,12,"English, Telugu",1.4,0,80
+HOSP_0208,Bangalore,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,250,1075,1325,73,4.2,19,"English, Hindi",2.1,1,78
+HOSP_0209,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,2434,2634,22,3.6,27,"English, Tamil",16.6,0,94
+HOSP_0210,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,2624,3124,72,4.2,6,"English, Tamil",24.3,0,87
+HOSP_0211,Bangalore,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,1584,1834,19,4.5,10,"English, Telugu",1.0,1,87
+HOSP_0212,Kadapa,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,2676,2876,80,4.5,5,"English, Hindi",6.8,1,84
+HOSP_0213,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,3114,4114,24,4.7,14,"English, Tamil",24.5,1,91
+HOSP_0214,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,300,821,1121,29,3.7,20,"English, Hindi",9.6,1,84
+HOSP_0215,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,500,2761,3261,58,3.8,16,"English, Hindi",16.3,1,91
+HOSP_0216,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,3290,3490,32,4.5,23,"English, Kannada",1.8,1,81
+HOSP_0217,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,3207,4207,43,4.6,4,"English, Hindi, Telugu",17.3,1,90
+HOSP_0218,Kadapa,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,500,760,1260,36,4.3,3,"English, Tamil",7.8,1,88
+HOSP_0219,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,3499,3699,22,4.2,18,"English, Hindi",18.7,0,63
+HOSP_0220,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,2820,3070,24,4.6,16,"English, Tamil",5.1,1,72
+HOSP_0221,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,2945,3445,72,3.6,19,"English, Hindi",24.0,1,70
+HOSP_0222,Kadapa,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,1424,2424,72,4.1,6,"English, Kannada",19.6,1,85
+HOSP_0223,Vijayawada,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,1121,1921,35,3.5,16,"English, Kannada",4.9,1,76
+HOSP_0224,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,635,1635,72,4.3,6,"English, Telugu",15.2,1,78
+HOSP_0225,Kadapa,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,2558,3558,36,4.5,14,"English, Telugu",17.8,1,78
+HOSP_0226,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,482,1482,69,3.9,22,"English, Hindi",15.2,1,70
+HOSP_0227,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,2136,3136,47,4.1,6,"English, Kannada",19.7,1,65
+HOSP_0228,Bangalore,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,901,1101,30,3.8,22,"English, Hindi, Telugu",24.5,1,89
+HOSP_0229,Vijayawada,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,2200,2400,65,4.9,12,"English, Tamil",11.0,0,88
+HOSP_0230,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,3264,3464,88,4.9,6,"English, Telugu",2.5,1,94
+HOSP_0231,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,2161,2661,55,3.7,14,"English, Kannada",10.3,0,84
+HOSP_0232,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,1731,2731,44,3.6,9,"English, Tamil",7.3,1,69
+HOSP_0233,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,881,1681,58,3.7,6,"English, Tamil",2.0,0,80
+HOSP_0234,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,2310,2510,21,3.6,17,"English, Telugu",18.4,1,83
+HOSP_0235,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,2839,3089,28,4.6,28,"English, Hindi, Telugu",6.8,1,85
+HOSP_0236,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,300,670,970,26,4.0,11,"English, Hindi",4.2,1,66
+HOSP_0237,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,872,1672,42,4.6,11,"English, Hindi",13.8,1,65
+HOSP_0238,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,1152,1402,19,4.9,18,"English, Hindi",16.9,1,98
+HOSP_0239,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,2279,3279,73,4.2,21,"English, Hindi",5.4,1,79
+HOSP_0240,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,500,2201,2701,29,3.8,23,"English, Kannada",21.8,1,99
+HOSP_0241,Chennai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,1180,1430,77,4.3,26,"English, Tamil",22.8,1,94
+HOSP_0242,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,2726,2926,64,3.6,7,"English, Tamil",5.3,1,67
+HOSP_0243,Chennai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,2511,2711,86,4.7,17,"English, Telugu",4.4,1,71
+HOSP_0244,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,3224,3524,17,4.8,13,"English, Hindi",15.2,1,67
+HOSP_0245,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,300,912,1212,18,4.7,16,"English, Tamil",22.1,0,75
+HOSP_0246,Kadapa,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,2210,3010,35,4.6,4,"English, Kannada",24.9,0,86
+HOSP_0247,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,300,2700,3000,82,4.6,4,"English, Telugu",2.4,1,87
+HOSP_0248,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,1757,2257,20,4.6,14,"English, Hindi",12.0,0,68
+HOSP_0249,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,1454,2454,44,3.8,23,"English, Kannada",20.7,1,80
+HOSP_0250,Chennai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,340,590,65,4.2,28,"English, Tamil",16.5,1,81
+HOSP_0251,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,1974,2474,29,3.9,3,"English, Kannada",18.6,1,94
+HOSP_0252,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,2548,3548,34,3.8,10,"English, Tamil",17.5,1,97
+HOSP_0253,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,1248,1448,60,4.6,6,"English, Kannada",6.2,0,72
+HOSP_0254,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,945,1145,37,3.8,4,"English, Kannada",9.8,1,78
+HOSP_0255,Chennai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,580,780,54,4.6,28,"English, Hindi",7.7,0,78
+HOSP_0256,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,2520,3020,85,4.4,11,"English, Tamil",15.9,1,78
+HOSP_0257,Vijayawada,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,1760,2760,75,3.6,19,"English, Hindi",0.8,1,84
+HOSP_0258,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,3348,3648,73,4.6,11,"English, Kannada",2.1,0,61
+HOSP_0259,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,1921,2921,55,5.0,25,"English, Hindi, Telugu",21.0,1,71
+HOSP_0260,Bangalore,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,1885,2885,35,3.6,22,"English, Hindi, Telugu",15.2,1,68
+HOSP_0261,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,1358,1858,79,3.5,25,"English, Kannada",22.8,1,74
+HOSP_0262,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,250,1119,1369,36,4.4,21,"English, Kannada",19.8,1,66
+HOSP_0263,Chennai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,1729,2229,59,5.0,14,"English, Telugu",7.2,1,60
+HOSP_0264,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,2920,3120,26,4.4,29,"English, Tamil",7.3,0,88
+HOSP_0265,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,300,1747,2047,28,4.4,15,"English, Kannada",5.6,1,97
+HOSP_0266,Vijayawada,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,1513,1713,22,3.6,3,"English, Telugu",11.8,1,68
+HOSP_0267,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,1155,1355,35,4.0,9,"English, Hindi",1.2,1,78
+HOSP_0268,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,300,1300,54,4.1,14,"English, Hindi, Telugu",18.0,1,92
+HOSP_0269,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,819,1319,39,4.5,25,"English, Hindi, Telugu",20.8,1,79
+HOSP_0270,Mumbai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,1647,1897,47,4.2,20,"English, Hindi, Telugu",3.5,1,79
+HOSP_0271,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,3002,3502,55,4.9,11,"English, Telugu",9.4,1,69
+HOSP_0272,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,3060,4060,53,4.8,22,"English, Tamil",18.7,1,62
+HOSP_0273,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,567,767,49,4.2,25,"English, Hindi, Telugu",10.3,0,90
+HOSP_0274,Kadapa,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,2119,2319,35,4.5,20,"English, Kannada",17.0,1,97
+HOSP_0275,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,500,2189,2689,46,4.7,14,"English, Hindi",11.1,1,91
+HOSP_0276,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,1441,1641,47,4.3,4,"English, Kannada",11.0,1,60
+HOSP_0277,Kadapa,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,2110,2610,43,4.3,20,"English, Kannada",0.7,1,86
+HOSP_0278,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,2129,2329,78,4.4,4,"English, Kannada",14.7,1,90
+HOSP_0279,Delhi,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,1757,2557,83,3.8,26,"English, Tamil",13.5,1,85
+HOSP_0280,Vijayawada,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,662,1662,78,4.1,21,"English, Telugu",8.2,1,89
+HOSP_0281,Hyderabad,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,2472,2722,51,4.9,7,"English, Tamil",22.3,1,68
+HOSP_0282,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,358,1158,61,3.7,19,"English, Hindi, Telugu",24.3,1,64
+HOSP_0283,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,2232,2432,48,3.8,23,"English, Tamil",21.0,1,93
+HOSP_0284,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,640,890,60,4.5,23,"English, Kannada",20.9,1,60
+HOSP_0285,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,2830,3630,27,4.4,13,"English, Kannada",10.3,0,77
+HOSP_0286,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,464,764,22,3.6,19,"English, Hindi, Telugu",13.8,1,86
+HOSP_0287,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,300,2145,2445,59,4.2,24,"English, Hindi, Telugu",18.8,1,64
+HOSP_0288,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,857,1057,26,5.0,21,"English, Tamil",13.1,1,91
+HOSP_0289,Chennai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,1910,2910,47,4.3,25,"English, Tamil",13.0,1,76
+HOSP_0290,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,381,1381,65,4.4,17,"English, Kannada",20.3,1,68
+HOSP_0291,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,2684,2884,86,3.6,8,"English, Tamil",11.5,1,90
+HOSP_0292,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,2049,2849,57,4.8,12,"English, Telugu",16.0,1,71
+HOSP_0293,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,995,1295,44,4.9,17,"English, Tamil",24.9,1,99
+HOSP_0294,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,500,324,824,51,4.6,7,"English, Hindi, Telugu",19.0,1,68
+HOSP_0295,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,2541,2841,77,3.6,11,"English, Telugu",2.4,1,89
+HOSP_0296,Bangalore,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,1209,1509,74,4.4,4,"English, Hindi, Telugu",23.9,1,75
+HOSP_0297,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,2669,2919,80,4.6,26,"English, Kannada",21.7,1,82
+HOSP_0298,Vijayawada,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,1888,2688,53,3.8,11,"English, Hindi, Telugu",1.3,1,78
+HOSP_0299,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,2378,3378,69,4.3,12,"English, Telugu",20.6,1,79
+HOSP_0300,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,2759,3009,67,4.7,24,"English, Kannada",4.0,1,77
+HOSP_0301,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,1149,2149,89,3.9,19,"English, Hindi",0.5,1,85
+HOSP_0302,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,2556,3556,64,4.2,8,"English, Hindi, Telugu",23.5,1,87
+HOSP_0303,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,1942,2142,33,4.3,4,"English, Kannada",14.5,0,72
+HOSP_0304,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,2971,3971,70,4.9,7,"English, Hindi",17.3,1,92
+HOSP_0305,Bangalore,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,2979,3179,69,3.5,25,"English, Hindi, Telugu",18.0,1,92
+HOSP_0306,Bangalore,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,730,930,39,3.9,23,"English, Kannada",19.7,1,76
+HOSP_0307,Vijayawada,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,1323,1823,55,4.2,18,"English, Telugu",16.0,1,66
+HOSP_0308,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,250,3088,3338,27,4.1,4,"English, Hindi",16.6,1,81
+HOSP_0309,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,2178,2978,59,3.6,11,"English, Kannada",18.6,1,80
+HOSP_0310,Vijayawada,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,1388,2388,35,3.9,5,"English, Hindi, Telugu",1.9,1,69
+HOSP_0311,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,857,1657,27,4.1,26,"English, Telugu",1.0,1,69
+HOSP_0312,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,2458,2758,31,4.9,22,"English, Hindi, Telugu",11.9,0,85
+HOSP_0313,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,3131,3631,61,3.8,28,"English, Kannada",3.6,1,89
+HOSP_0314,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,2059,2859,39,4.7,28,"English, Kannada",16.2,1,75
+HOSP_0315,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,500,1272,1772,21,4.8,21,"English, Hindi",13.9,0,82
+HOSP_0316,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,1382,2382,18,4.8,11,"English, Hindi, Telugu",6.5,1,74
+HOSP_0317,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,1541,2041,18,4.9,11,"English, Hindi, Telugu",13.5,1,70
+HOSP_0318,Vijayawada,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,1852,2052,73,4.6,9,"English, Telugu",22.5,0,78
+HOSP_0319,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,2803,3603,82,4.1,13,"English, Tamil",20.3,0,97
+HOSP_0320,Delhi,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,985,1185,40,3.7,7,"English, Kannada",16.0,1,92
+HOSP_0321,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,2362,2662,75,4.9,16,"English, Hindi, Telugu",15.7,0,77
+HOSP_0322,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,2057,2857,17,3.7,10,"English, Kannada",22.5,1,76
+HOSP_0323,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,1846,2096,42,4.5,11,"English, Kannada",23.8,0,85
+HOSP_0324,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,656,956,32,4.4,25,"English, Telugu",24.5,1,88
+HOSP_0325,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,1596,1846,57,4.3,4,"English, Telugu",19.1,1,67
+HOSP_0326,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,3180,4180,57,4.5,29,"English, Kannada",14.3,1,81
+HOSP_0327,Delhi,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,2421,3221,50,4.0,12,"English, Tamil",1.6,0,99
+HOSP_0328,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,3137,3437,41,3.5,5,"English, Kannada",16.7,1,68
+HOSP_0329,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,2476,2776,46,4.3,9,"English, Hindi",16.1,1,89
+HOSP_0330,Bangalore,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,3065,3265,31,4.7,22,"English, Hindi, Telugu",14.3,1,63
+HOSP_0331,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,3429,3629,40,4.9,22,"English, Telugu",21.1,1,64
+HOSP_0332,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,2701,2901,55,4.9,7,"English, Tamil",14.3,1,71
+HOSP_0333,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,1432,1732,74,4.1,25,"English, Telugu",22.4,1,63
+HOSP_0334,Chennai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,2975,3225,22,3.8,21,"English, Kannada",16.1,1,74
+HOSP_0335,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,3054,3254,38,4.7,6,"English, Telugu",19.5,1,63
+HOSP_0336,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,2780,2980,67,3.9,25,"English, Hindi, Telugu",1.4,1,65
+HOSP_0337,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,3027,3277,21,3.8,23,"English, Hindi, Telugu",11.2,0,81
+HOSP_0338,Chennai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,3409,3909,50,4.6,7,"English, Hindi, Telugu",10.9,1,96
+HOSP_0339,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,505,805,71,4.1,29,"English, Kannada",24.6,1,80
+HOSP_0340,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,300,2122,2422,56,4.6,29,"English, Telugu",19.6,1,70
+HOSP_0341,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,3132,3332,82,4.9,17,"English, Hindi",3.7,1,60
+HOSP_0342,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,1404,1904,80,4.5,9,"English, Tamil",20.2,1,98
+HOSP_0343,Vijayawada,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,1062,1262,55,3.8,15,"English, Kannada",24.5,0,71
+HOSP_0344,Kadapa,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,3310,3510,29,4.3,6,"English, Telugu",0.9,1,94
+HOSP_0345,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,973,1973,75,3.6,26,"English, Tamil",12.8,1,92
+HOSP_0346,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,2540,3340,83,4.6,8,"English, Hindi, Telugu",24.1,1,78
+HOSP_0347,Bangalore,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,300,1781,2081,34,4.5,14,"English, Telugu",21.8,1,96
+HOSP_0348,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,1533,1833,86,3.6,19,"English, Kannada",7.5,1,86
+HOSP_0349,Delhi,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,3468,4468,19,4.6,16,"English, Hindi, Telugu",2.2,1,78
+HOSP_0350,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,2906,3156,53,4.9,15,"English, Kannada",17.0,1,73
+HOSP_0351,Vijayawada,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,1059,1859,34,3.9,20,"English, Telugu",22.9,1,88
+HOSP_0352,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,817,1067,72,3.7,11,"English, Hindi, Telugu",5.2,1,86
+HOSP_0353,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,2734,3034,24,4.3,5,"English, Telugu",7.5,1,81
+HOSP_0354,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,968,1268,34,3.9,24,"English, Kannada",15.2,1,61
+HOSP_0355,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,1457,2457,41,4.5,3,"English, Hindi",13.4,1,61
+HOSP_0356,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,2942,3142,40,4.2,23,"English, Tamil",18.5,0,81
+HOSP_0357,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,324,1324,42,4.4,15,"English, Kannada",23.4,1,78
+HOSP_0358,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,3444,3944,60,3.8,8,"English, Hindi",12.7,1,94
+HOSP_0359,Bangalore,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,3498,4298,39,4.2,17,"English, Kannada",11.1,1,85
+HOSP_0360,Chennai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,342,542,55,3.9,22,"English, Hindi, Telugu",2.7,1,82
+HOSP_0361,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,2340,2540,83,3.6,4,"English, Tamil",11.7,1,92
+HOSP_0362,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,1627,2627,24,4.8,21,"English, Kannada",23.4,1,62
+HOSP_0363,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,1314,1514,22,3.6,12,"English, Hindi",23.1,1,84
+HOSP_0364,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,3212,3712,68,4.8,20,"English, Tamil",11.6,1,97
+HOSP_0365,Chennai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,1942,2192,51,4.7,20,"English, Telugu",12.8,1,72
+HOSP_0366,Vijayawada,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,1174,1974,68,3.5,17,"English, Hindi",19.2,1,60
+HOSP_0367,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,2332,3132,88,4.9,20,"English, Tamil",20.4,1,94
+HOSP_0368,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,495,695,26,3.9,26,"English, Telugu",13.6,1,83
+HOSP_0369,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,2891,3891,69,4.9,6,"English, Telugu",9.7,1,75
+HOSP_0370,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,3176,3976,23,3.6,15,"English, Tamil",9.0,1,64
+HOSP_0371,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,2423,2623,81,4.1,24,"English, Hindi",4.4,1,72
+HOSP_0372,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,1724,2524,80,4.3,14,"English, Telugu",7.8,1,89
+HOSP_0373,Vijayawada,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,2763,3063,56,4.8,28,"English, Telugu",16.0,1,93
+HOSP_0374,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,3382,3882,53,3.6,24,"English, Tamil",8.7,1,83
+HOSP_0375,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,3305,3505,33,4.5,10,"English, Telugu",4.7,1,72
+HOSP_0376,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,538,1338,62,4.4,9,"English, Telugu",13.1,1,85
+HOSP_0377,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,250,1116,1366,67,4.7,19,"English, Tamil",2.2,1,74
+HOSP_0378,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,300,2763,3063,40,3.9,27,"English, Kannada",17.6,1,88
+HOSP_0379,Vijayawada,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,2846,3046,65,3.9,9,"English, Hindi, Telugu",5.0,0,74
+HOSP_0380,Bangalore,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,3289,4089,44,4.5,20,"English, Tamil",7.4,1,67
+HOSP_0381,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,2195,2395,50,4.8,22,"English, Hindi",24.6,1,72
+HOSP_0382,Vijayawada,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,2283,2783,81,3.8,24,"English, Tamil",17.8,1,70
+HOSP_0383,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,2443,2743,44,3.8,19,"English, Hindi",0.6,0,74
+HOSP_0384,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,549,749,72,4.7,15,"English, Telugu",19.1,1,78
+HOSP_0385,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,300,882,1182,23,4.0,8,"English, Hindi, Telugu",4.4,1,90
+HOSP_0386,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,1103,1353,76,3.7,12,"English, Hindi, Telugu",18.1,1,67
+HOSP_0387,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,1254,2054,16,4.1,14,"English, Telugu",12.9,1,76
+HOSP_0388,Mumbai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,2743,2993,37,4.5,19,"English, Hindi",7.0,0,89
+HOSP_0389,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,3032,4032,42,4.2,16,"English, Hindi, Telugu",16.5,0,69
+HOSP_0390,Kadapa,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,2114,2614,84,4.7,28,"English, Hindi, Telugu",18.8,1,67
+HOSP_0391,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,1393,2393,35,4.8,17,"English, Hindi, Telugu",15.9,0,65
+HOSP_0392,Vijayawada,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,754,1054,32,4.8,13,"English, Hindi",14.6,1,86
+HOSP_0393,Chennai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,300,1256,1556,45,4.7,12,"English, Tamil",24.9,1,74
+HOSP_0394,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,3150,3350,89,4.0,21,"English, Tamil",0.8,1,94
+HOSP_0395,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,500,2251,2751,69,4.8,13,"English, Telugu",14.3,1,80
+HOSP_0396,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,300,2884,3184,82,5.0,21,"English, Tamil",17.1,1,84
+HOSP_0397,Bangalore,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,300,1945,2245,69,4.4,29,"English, Hindi, Telugu",24.9,0,63
+HOSP_0398,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,2244,2744,28,3.6,13,"English, Hindi, Telugu",17.0,1,77
+HOSP_0399,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,500,1748,2248,73,4.5,11,"English, Telugu",14.1,1,66
+HOSP_0400,Delhi,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,705,1205,61,4.2,16,"English, Telugu",1.0,1,74
+HOSP_0401,Vijayawada,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,2513,3013,17,4.5,28,"English, Hindi, Telugu",4.3,1,97
+HOSP_0402,Chennai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,1910,2910,86,3.6,13,"English, Kannada",1.3,1,89
+HOSP_0403,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,2786,3286,30,4.5,13,"English, Hindi, Telugu",24.4,1,86
+HOSP_0404,Kadapa,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,3278,3478,65,3.5,12,"English, Hindi",15.8,0,67
+HOSP_0405,Vijayawada,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,2623,3623,67,5.0,19,"English, Hindi",21.4,0,78
+HOSP_0406,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,1394,1644,72,3.8,22,"English, Telugu",7.1,1,74
+HOSP_0407,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,300,2340,2640,54,3.7,14,"English, Tamil",8.5,1,89
+HOSP_0408,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,3420,3920,50,4.5,6,"English, Hindi, Telugu",4.7,0,77
+HOSP_0409,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,2311,2611,60,4.7,7,"English, Telugu",12.9,1,94
+HOSP_0410,Chennai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,1666,2666,31,4.2,12,"English, Hindi",18.0,1,93
+HOSP_0411,Vijayawada,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,1412,2212,62,4.3,14,"English, Hindi",21.6,1,98
+HOSP_0412,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,339,539,34,3.5,23,"English, Telugu",12.0,1,71
+HOSP_0413,Vijayawada,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,300,2791,3091,85,3.7,18,"English, Telugu",3.5,1,84
+HOSP_0414,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,2332,2532,20,4.4,27,"English, Kannada",12.5,1,63
+HOSP_0415,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,3192,3392,46,3.9,8,"English, Kannada",4.5,0,62
+HOSP_0416,Vijayawada,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,1019,1269,36,4.4,8,"English, Hindi",19.7,1,69
+HOSP_0417,Bangalore,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,500,1500,2000,73,4.8,7,"English, Kannada",17.0,1,80
+HOSP_0418,Chennai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,2735,3735,27,4.4,12,"English, Telugu",1.8,1,76
+HOSP_0419,Delhi,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,1210,1410,31,3.9,10,"English, Telugu",23.7,0,67
+HOSP_0420,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,1080,1380,53,3.5,27,"English, Hindi, Telugu",4.3,1,77
+HOSP_0421,Vijayawada,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,2955,3755,27,4.5,23,"English, Hindi",13.0,1,68
+HOSP_0422,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,2826,3326,67,3.6,22,"English, Hindi",21.4,0,60
+HOSP_0423,Bangalore,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,300,1421,1721,23,4.0,14,"English, Hindi",19.4,0,67
+HOSP_0424,Vijayawada,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,500,1644,2144,56,4.1,13,"English, Tamil",16.5,1,88
+HOSP_0425,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,641,1641,64,4.0,15,"English, Tamil",13.4,1,94
+HOSP_0426,Bangalore,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,3486,3686,80,4.5,21,"English, Kannada",15.1,1,97
+HOSP_0427,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,3490,4490,51,4.8,6,"English, Telugu",22.9,1,72
+HOSP_0428,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,3476,3676,74,5.0,28,"English, Kannada",8.8,1,87
+HOSP_0429,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,250,3163,3413,54,4.3,14,"English, Telugu",23.3,1,68
+HOSP_0430,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,3096,4096,39,4.9,5,"English, Telugu",0.6,1,68
+HOSP_0431,Chennai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,451,701,19,3.7,29,"English, Hindi",0.7,1,85
+HOSP_0432,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,3199,3449,26,4.9,25,"English, Hindi",11.3,1,62
+HOSP_0433,Hyderabad,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,1151,1351,63,4.7,23,"English, Hindi, Telugu",13.5,1,74
+HOSP_0434,Mumbai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,1247,2247,60,4.4,26,"English, Hindi",10.1,1,82
+HOSP_0435,Bangalore,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,250,960,1210,37,4.5,10,"English, Telugu",14.2,0,67
+HOSP_0436,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,2213,3013,67,4.2,26,"English, Tamil",24.5,1,68
+HOSP_0437,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,659,859,74,4.4,13,"English, Kannada",6.0,0,72
+HOSP_0438,Kadapa,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,3240,4040,68,4.1,11,"English, Telugu",11.1,1,90
+HOSP_0439,Delhi,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,1196,1696,69,3.8,7,"English, Hindi",6.7,1,80
+HOSP_0440,Vijayawada,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,2958,3958,22,3.7,19,"English, Hindi",14.2,1,97
+HOSP_0441,Vijayawada,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,3121,3921,49,3.8,17,"English, Hindi, Telugu",14.6,1,72
+HOSP_0442,Kadapa,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,1315,2115,49,3.5,7,"English, Telugu",17.3,1,85
+HOSP_0443,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,689,1189,84,4.5,20,"English, Telugu",8.6,0,73
+HOSP_0444,Kadapa,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,3234,3734,29,4.4,13,"English, Kannada",17.5,1,79
+HOSP_0445,Bangalore,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,250,731,981,58,4.7,19,"English, Tamil",24.1,1,95
+HOSP_0446,Vijayawada,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,1451,1701,28,3.9,17,"English, Kannada",14.1,1,75
+HOSP_0447,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,250,1607,1857,80,4.3,24,"English, Tamil",6.9,1,61
+HOSP_0448,Bangalore,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,250,1448,1698,71,3.9,12,"English, Telugu",1.6,1,98
+HOSP_0449,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,300,2520,2820,37,4.7,8,"English, Telugu",6.3,1,88
+HOSP_0450,Mumbai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,907,1157,87,4.0,22,"English, Tamil",14.2,0,76
+HOSP_0451,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,3196,3696,55,3.8,24,"English, Tamil",23.7,1,70
+HOSP_0452,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,1838,2088,23,4.4,25,"English, Hindi",11.1,1,68
+HOSP_0453,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,1392,2192,61,4.2,25,"English, Hindi",4.4,1,84
+HOSP_0454,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,1316,1566,72,4.0,11,"English, Hindi",16.7,1,93
+HOSP_0455,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,1846,2146,35,4.9,9,"English, Hindi",6.2,0,71
+HOSP_0456,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,250,2401,2651,89,4.1,21,"English, Telugu",21.5,1,75
+HOSP_0457,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,730,1030,62,4.5,15,"English, Kannada",24.4,1,86
+HOSP_0458,Kadapa,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,874,1874,26,4.1,13,"English, Hindi",5.9,1,95
+HOSP_0459,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,1019,1269,50,4.2,17,"English, Kannada",7.5,1,73
+HOSP_0460,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,3495,4295,51,4.6,17,"English, Kannada",17.5,1,72
+HOSP_0461,Hyderabad,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,2374,3174,69,3.7,22,"English, Hindi",7.1,1,81
+HOSP_0462,Hyderabad,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,3401,4401,59,4.0,4,"English, Hindi, Telugu",6.5,0,95
+HOSP_0463,Chennai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,1140,1640,33,4.5,22,"English, Hindi",4.0,1,77
+HOSP_0464,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,577,1577,72,3.6,14,"English, Telugu",1.2,1,90
+HOSP_0465,Bangalore,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,250,2825,3075,45,4.5,27,"English, Hindi, Telugu",21.7,1,91
+HOSP_0466,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,500,1461,1961,16,4.4,26,"English, Hindi",12.8,1,98
+HOSP_0467,Kadapa,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,300,3459,3759,15,3.7,23,"English, Kannada",15.3,1,71
+HOSP_0468,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,1671,1971,79,4.5,23,"English, Telugu",19.9,1,63
+HOSP_0469,Bangalore,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,250,1117,1367,57,4.9,5,"English, Kannada",4.2,0,61
+HOSP_0470,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,3041,3541,44,4.1,27,"English, Hindi, Telugu",11.9,0,92
+HOSP_0471,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,853,1853,61,3.6,18,"English, Hindi, Telugu",15.3,0,86
+HOSP_0472,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,250,2359,2609,54,3.7,28,"English, Hindi",15.8,0,79
+HOSP_0473,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,1758,1958,50,3.8,29,"English, Telugu",16.8,0,88
+HOSP_0474,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,2472,2972,38,4.0,16,"English, Hindi, Telugu",15.2,1,71
+HOSP_0475,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,3393,3893,75,4.9,27,"English, Hindi",21.0,1,97
+HOSP_0476,Kadapa,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,422,1222,30,3.8,6,"English, Hindi, Telugu",16.0,1,90
+HOSP_0477,Delhi,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,2664,3464,85,3.7,17,"English, Kannada",23.1,1,93
+HOSP_0478,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,300,671,971,57,3.5,5,"English, Hindi",14.1,1,82
+HOSP_0479,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,2638,3138,19,4.3,8,"English, Hindi",9.9,1,64
+HOSP_0480,Bangalore,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,2419,2619,15,4.0,25,"English, Tamil",20.8,0,70
+HOSP_0481,Vijayawada,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,2875,3125,34,4.4,3,"English, Telugu",12.2,1,61
+HOSP_0482,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,307,1307,43,4.5,3,"English, Tamil",18.6,1,71
+HOSP_0483,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,3444,3944,53,4.8,24,"English, Tamil",18.4,1,72
+HOSP_0484,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,1409,1609,66,4.2,15,"English, Tamil",5.3,1,85
+HOSP_0485,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,3448,3748,42,4.7,26,"English, Tamil",20.9,0,74
+HOSP_0486,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,710,960,25,3.6,13,"English, Tamil",17.4,1,97
+HOSP_0487,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,1900,2400,86,4.4,24,"English, Tamil",22.7,0,71
+HOSP_0488,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,2999,3999,57,4.9,7,"English, Hindi, Telugu",8.2,1,84
+HOSP_0489,Vijayawada,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,2463,3463,18,4.1,19,"English, Telugu",10.6,0,82
+HOSP_0490,Kadapa,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,1046,1296,71,4.1,24,"English, Hindi, Telugu",8.8,1,73
+HOSP_0491,Vijayawada,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,500,572,1072,81,4.2,22,"English, Hindi, Telugu",21.9,1,84
+HOSP_0492,Vijayawada,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,806,1056,61,4.4,24,"English, Kannada",10.2,1,84
+HOSP_0493,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,2172,3172,55,3.8,27,"English, Hindi, Telugu",3.2,0,92
+HOSP_0494,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,1511,2311,48,3.6,6,"English, Tamil",17.6,1,66
+HOSP_0495,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,590,1390,22,4.0,21,"English, Kannada",13.7,1,86
+HOSP_0496,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,807,1307,43,3.7,17,"English, Tamil",11.1,1,76
+HOSP_0497,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,2889,3089,44,4.0,4,"English, Kannada",22.9,1,85
+HOSP_0498,Kadapa,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,556,1356,72,5.0,28,"English, Hindi, Telugu",10.2,1,83
+HOSP_0499,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,2954,3204,44,4.5,3,"English, Telugu",20.3,0,86
+HOSP_0500,Vijayawada,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,1143,1943,43,3.9,23,"English, Telugu",16.3,1,77
+HOSP_0501,Kadapa,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,2071,2371,52,3.8,3,"English, Kannada",1.7,0,63
+HOSP_0502,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,500,1180,1680,36,3.8,8,"English, Telugu",19.7,1,75
+HOSP_0503,Chennai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,300,1954,2254,63,4.4,15,"English, Hindi, Telugu",15.3,1,91
+HOSP_0504,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,1189,1489,29,4.4,29,"English, Tamil",5.0,1,74
+HOSP_0505,Vijayawada,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,500,2970,3470,52,4.3,21,"English, Tamil",9.9,0,79
+HOSP_0506,Bangalore,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,750,1550,59,4.3,18,"English, Hindi, Telugu",24.9,1,73
+HOSP_0507,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,2674,2874,29,4.7,4,"English, Hindi",22.6,1,60
+HOSP_0508,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,2035,3035,70,4.2,20,"English, Kannada",24.6,1,73
+HOSP_0509,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,2518,2718,20,4.5,13,"English, Hindi",4.0,1,73
+HOSP_0510,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,300,1642,1942,71,3.6,26,"English, Tamil",19.3,1,91
+HOSP_0511,Chennai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,3439,3639,60,5.0,18,"English, Tamil",24.2,1,83
+HOSP_0512,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,447,1247,80,4.4,15,"English, Telugu",8.6,1,72
+HOSP_0513,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,1470,1670,49,4.0,28,"English, Hindi, Telugu",6.0,1,81
+HOSP_0514,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,500,738,1238,74,4.4,21,"English, Kannada",20.2,0,96
+HOSP_0515,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,426,676,54,4.3,15,"English, Kannada",24.9,1,94
+HOSP_0516,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,3187,4187,69,4.9,23,"English, Telugu",22.7,0,60
+HOSP_0517,Kadapa,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,1218,1518,44,4.9,20,"English, Hindi",16.6,1,86
+HOSP_0518,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,3459,3709,61,3.5,12,"English, Telugu",1.6,1,86
+HOSP_0519,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,2880,3680,54,4.4,15,"English, Hindi",3.8,1,87
+HOSP_0520,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,2285,2485,39,4.0,11,"English, Tamil",7.5,1,70
+HOSP_0521,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,1678,2478,38,3.5,19,"English, Kannada",10.5,1,60
+HOSP_0522,Delhi,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,807,1607,30,4.4,21,"English, Tamil",15.5,1,68
+HOSP_0523,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,780,1080,48,3.8,10,"English, Telugu",8.0,1,65
+HOSP_0524,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,2187,3187,62,3.8,12,"English, Telugu",13.2,1,83
+HOSP_0525,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,778,978,29,4.1,10,"English, Hindi",8.1,1,76
+HOSP_0526,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,500,1392,1892,19,4.3,20,"English, Telugu",20.5,1,69
+HOSP_0527,Kadapa,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,1331,1531,81,3.6,16,"English, Hindi",3.9,1,96
+HOSP_0528,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,1487,2287,27,4.5,12,"English, Kannada",19.1,1,61
+HOSP_0529,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,1474,2274,43,4.0,21,"English, Hindi, Telugu",19.3,1,79
+HOSP_0530,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,792,992,16,4.9,28,"English, Kannada",5.6,1,94
+HOSP_0531,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,3199,4199,78,4.5,24,"English, Tamil",0.7,1,75
+HOSP_0532,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,1815,2015,69,4.6,16,"English, Hindi",16.6,1,89
+HOSP_0533,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,1467,1667,65,3.9,18,"English, Kannada",12.4,1,72
+HOSP_0534,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,2895,3145,39,4.9,20,"English, Hindi, Telugu",8.5,1,83
+HOSP_0535,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,3241,3541,42,4.7,8,"English, Hindi, Telugu",3.9,0,80
+HOSP_0536,Bangalore,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,500,3483,3983,73,4.7,15,"English, Hindi",15.1,1,63
+HOSP_0537,Bangalore,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,2584,2884,21,4.6,29,"English, Kannada",5.3,0,92
+HOSP_0538,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,500,2512,3012,73,4.4,5,"English, Hindi, Telugu",24.5,0,94
+HOSP_0539,Vijayawada,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,1640,2440,45,3.7,26,"English, Kannada",3.3,1,73
+HOSP_0540,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,3398,4398,29,4.8,25,"English, Tamil",15.9,0,93
+HOSP_0541,Vijayawada,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,1052,1552,27,5.0,17,"English, Kannada",13.4,1,77
+HOSP_0542,Kadapa,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,1220,2020,52,3.6,29,"English, Telugu",2.3,1,89
+HOSP_0543,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,1056,1856,36,3.8,18,"English, Telugu",16.4,1,76
+HOSP_0544,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,896,1146,53,4.0,8,"English, Hindi",24.9,1,79
+HOSP_0545,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,1811,2611,87,4.1,27,"English, Telugu",0.5,0,81
+HOSP_0546,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,1745,2545,32,4.6,3,"English, Hindi",3.4,1,77
+HOSP_0547,Bangalore,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,1867,2167,47,4.6,11,"English, Kannada",23.0,1,93
+HOSP_0548,Mumbai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,2360,2560,70,4.7,15,"English, Hindi",11.4,1,76
+HOSP_0549,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,798,1798,44,4.7,28,"English, Kannada",24.7,1,66
+HOSP_0550,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,500,2841,3341,63,4.8,13,"English, Hindi, Telugu",17.8,1,71
+HOSP_0551,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,3499,3799,34,4.7,8,"English, Hindi",23.8,1,66
+HOSP_0552,Vijayawada,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,1250,1450,74,4.1,24,"English, Tamil",22.7,1,93
+HOSP_0553,Kadapa,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,2459,3459,32,3.9,19,"English, Hindi",21.2,0,62
+HOSP_0554,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,500,1805,2305,49,4.6,3,"English, Kannada",21.7,1,60
+HOSP_0555,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,3136,3436,67,3.7,29,"English, Hindi, Telugu",12.3,1,87
+HOSP_0556,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,250,2027,2277,57,3.5,29,"English, Kannada",15.3,1,93
+HOSP_0557,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,2937,3937,30,3.7,21,"English, Telugu",4.6,1,96
+HOSP_0558,Vijayawada,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,3147,4147,15,3.7,23,"English, Telugu",2.6,1,92
+HOSP_0559,Hyderabad,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,500,326,826,40,4.6,6,"English, Hindi, Telugu",21.4,1,64
+HOSP_0560,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,1147,1397,52,4.1,16,"English, Hindi, Telugu",8.9,1,82
+HOSP_0561,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,2516,2716,55,4.9,5,"English, Telugu",15.8,0,66
+HOSP_0562,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,2617,3417,66,4.5,9,"English, Telugu",4.1,1,95
+HOSP_0563,Vijayawada,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,3468,3968,88,5.0,17,"English, Telugu",14.3,0,75
+HOSP_0564,Kadapa,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,966,1966,42,3.8,16,"English, Tamil",20.1,1,95
+HOSP_0565,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,2791,3591,36,3.6,28,"English, Hindi",21.4,1,97
+HOSP_0566,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,3491,4491,31,3.8,27,"English, Telugu",10.2,1,83
+HOSP_0567,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,1596,1796,64,4.9,10,"English, Telugu",18.7,1,88
+HOSP_0568,Hyderabad,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,2621,2821,56,3.7,7,"English, Hindi, Telugu",8.5,1,88
+HOSP_0569,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,300,1727,2027,61,4.8,11,"English, Hindi, Telugu",6.8,1,96
+HOSP_0570,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,500,2885,3385,40,4.0,19,"English, Telugu",20.8,1,92
+HOSP_0571,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,2327,2527,47,4.1,26,"English, Tamil",11.1,0,94
+HOSP_0572,Chennai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,2098,2898,60,4.6,18,"English, Hindi, Telugu",18.7,1,84
+HOSP_0573,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,786,1036,20,4.5,18,"English, Hindi",5.9,1,73
+HOSP_0574,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,600,800,77,3.7,6,"English, Hindi, Telugu",10.2,1,89
+HOSP_0575,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,250,855,1105,47,4.6,26,"English, Telugu",16.8,1,95
+HOSP_0576,Mumbai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,2434,2634,37,4.1,18,"English, Kannada",18.6,0,62
+HOSP_0577,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,377,877,30,4.0,14,"English, Hindi, Telugu",13.1,1,95
+HOSP_0578,Chennai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,500,422,922,65,3.8,18,"English, Tamil",8.8,0,96
+HOSP_0579,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,442,742,78,4.7,7,"English, Hindi, Telugu",13.6,1,88
+HOSP_0580,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,3187,3987,35,4.8,8,"English, Telugu",16.8,1,73
+HOSP_0581,Chennai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,663,1663,48,3.6,28,"English, Hindi",3.5,1,60
+HOSP_0582,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,3285,3785,27,4.6,23,"English, Hindi",24.3,1,61
+HOSP_0583,Delhi,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,250,1165,1415,20,3.8,21,"English, Tamil",15.8,1,68
+HOSP_0584,Mumbai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,2983,3283,67,4.6,23,"English, Kannada",6.8,1,71
+HOSP_0585,Vijayawada,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,2077,3077,35,3.7,9,"English, Kannada",23.1,1,60
+HOSP_0586,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,1569,2569,75,4.2,14,"English, Telugu",23.1,1,76
+HOSP_0587,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,1219,2219,65,3.6,10,"English, Hindi, Telugu",13.2,1,98
+HOSP_0588,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,250,3079,3329,71,4.2,14,"English, Telugu",5.3,1,91
+HOSP_0589,Mumbai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,1142,1342,37,3.6,22,"English, Hindi, Telugu",18.1,1,92
+HOSP_0590,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,3034,3284,47,4.1,22,"English, Tamil",21.6,1,77
+HOSP_0591,Vijayawada,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,608,1108,24,4.1,19,"English, Tamil",21.8,1,92
+HOSP_0592,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,3413,3913,33,4.5,21,"English, Telugu",19.1,1,60
+HOSP_0593,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,1316,2116,22,3.8,18,"English, Hindi, Telugu",4.5,1,78
+HOSP_0594,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,2963,3213,72,4.3,14,"English, Telugu",0.9,0,72
+HOSP_0595,Vijayawada,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,1581,2081,21,4.9,26,"English, Kannada",3.6,1,68
+HOSP_0596,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,3192,3992,55,3.7,20,"English, Telugu",12.2,1,87
+HOSP_0597,Kadapa,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,500,2176,2676,84,4.2,13,"English, Kannada",15.6,1,88
+HOSP_0598,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,1308,2108,54,3.8,29,"English, Hindi, Telugu",24.7,0,90
+HOSP_0599,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,2647,2847,26,4.1,18,"English, Hindi",2.6,1,87
+HOSP_0600,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,1177,1427,72,4.0,12,"English, Kannada",15.9,1,67
+HOSP_0601,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,2006,2256,29,4.6,7,"English, Hindi, Telugu",10.0,1,71
+HOSP_0602,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,250,1147,1397,50,5.0,14,"English, Telugu",20.1,1,77
+HOSP_0603,Bangalore,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,3434,4434,18,4.2,15,"English, Telugu",18.7,1,71
+HOSP_0604,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,250,3093,3343,15,3.8,28,"English, Hindi",10.3,1,94
+HOSP_0605,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,860,1110,76,4.5,24,"English, Kannada",17.7,1,66
+HOSP_0606,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,1290,2290,45,4.6,18,"English, Tamil",13.1,0,85
+HOSP_0607,Kadapa,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,3258,4058,41,4.2,14,"English, Kannada",19.0,1,71
+HOSP_0608,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,3455,3955,37,5.0,7,"English, Hindi, Telugu",7.6,1,72
+HOSP_0609,Vijayawada,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,2553,3353,76,4.3,22,"English, Kannada",24.3,1,63
+HOSP_0610,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,2672,2922,69,5.0,12,"English, Hindi",4.9,0,69
+HOSP_0611,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,1767,2067,65,4.3,3,"English, Kannada",24.1,1,89
+HOSP_0612,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,1468,1668,83,3.5,22,"English, Hindi, Telugu",23.4,1,78
+HOSP_0613,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,2169,2369,76,4.1,19,"English, Kannada",12.2,1,65
+HOSP_0614,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,250,2566,2816,35,4.9,18,"English, Kannada",11.6,1,87
+HOSP_0615,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,2266,2516,84,4.9,21,"English, Hindi",25.0,1,80
+HOSP_0616,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,1476,1776,69,3.6,14,"English, Hindi, Telugu",21.8,1,82
+HOSP_0617,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,1820,2620,87,3.5,4,"English, Tamil",23.7,1,79
+HOSP_0618,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,3290,3590,16,4.2,6,"English, Tamil",18.5,0,66
+HOSP_0619,Kadapa,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,2771,3271,59,3.6,27,"English, Hindi, Telugu",1.9,0,88
+HOSP_0620,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,1987,2287,28,3.9,12,"English, Hindi",16.9,1,89
+HOSP_0621,Bangalore,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,940,1140,46,4.1,17,"English, Kannada",12.4,1,81
+HOSP_0622,Bangalore,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,1399,2199,34,3.9,19,"English, Hindi, Telugu",12.9,1,91
+HOSP_0623,Vijayawada,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,250,2203,2453,60,3.6,20,"English, Tamil",3.9,1,67
+HOSP_0624,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,500,1725,2225,52,3.9,11,"English, Tamil",18.1,1,94
+HOSP_0625,Hyderabad,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,2505,3505,18,4.8,27,"English, Kannada",8.4,1,81
+HOSP_0626,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,367,1367,15,4.6,14,"English, Telugu",8.4,1,97
+HOSP_0627,Chennai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,250,2797,3047,88,4.3,14,"English, Telugu",19.8,1,90
+HOSP_0628,Chennai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,802,1102,48,3.6,8,"English, Hindi, Telugu",18.6,1,74
+HOSP_0629,Hyderabad,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,1739,1989,81,4.9,24,"English, Telugu",3.4,1,88
+HOSP_0630,Kadapa,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,1699,2499,80,3.7,9,"English, Hindi",7.1,1,91
+HOSP_0631,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,1016,1316,35,4.1,6,"English, Tamil",10.7,1,96
+HOSP_0632,Kadapa,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,500,772,1272,54,3.6,16,"English, Hindi, Telugu",9.3,1,99
+HOSP_0633,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,2324,2524,16,3.5,22,"English, Telugu",8.6,1,85
+HOSP_0634,Kadapa,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,526,826,74,4.2,26,"English, Hindi, Telugu",17.5,0,71
+HOSP_0635,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,3428,3628,54,4.1,15,"English, Tamil",12.1,1,70
+HOSP_0636,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,1439,1689,48,4.2,13,"English, Hindi, Telugu",12.6,1,91
+HOSP_0637,Delhi,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,250,2269,2519,39,4.3,9,"English, Hindi",11.6,1,82
+HOSP_0638,Vijayawada,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,1489,2489,16,4.8,22,"English, Hindi",11.2,1,67
+HOSP_0639,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,1612,2112,36,4.7,7,"English, Telugu",16.2,1,89
+HOSP_0640,Kadapa,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,1914,2164,56,4.1,14,"English, Telugu",5.9,1,97
+HOSP_0641,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,500,2861,3361,27,4.2,29,"English, Hindi, Telugu",16.4,0,79
+HOSP_0642,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,2840,3840,41,3.8,9,"English, Telugu",22.5,1,64
+HOSP_0643,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,2234,3034,40,4.3,21,"English, Hindi",23.3,0,98
+HOSP_0644,Vijayawada,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,300,1315,1615,78,4.4,13,"English, Hindi",25.0,1,92
+HOSP_0645,Kadapa,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,3417,4417,80,3.6,13,"English, Telugu",22.0,1,94
+HOSP_0646,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,580,780,57,4.2,5,"English, Tamil",2.9,1,69
+HOSP_0647,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,1511,1761,75,4.9,20,"English, Kannada",10.3,0,65
+HOSP_0648,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,250,1305,1555,75,4.6,28,"English, Kannada",1.9,1,74
+HOSP_0649,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,558,1358,66,4.6,15,"English, Tamil",2.4,1,97
+HOSP_0650,Mumbai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,657,1657,60,4.9,10,"English, Hindi",14.0,1,80
+HOSP_0651,Vijayawada,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,1771,2571,34,4.3,16,"English, Telugu",8.9,1,74
+HOSP_0652,Mumbai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,801,1601,50,3.8,24,"English, Hindi, Telugu",1.9,1,99
+HOSP_0653,Vijayawada,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,2779,3279,52,3.8,23,"English, Hindi",13.8,1,86
+HOSP_0654,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,2140,2940,57,4.8,10,"English, Hindi, Telugu",17.0,1,95
+HOSP_0655,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,250,3181,3431,39,4.6,29,"English, Hindi",2.4,1,84
+HOSP_0656,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,936,1936,72,4.4,4,"English, Telugu",17.7,0,71
+HOSP_0657,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,2924,3424,79,4.0,3,"English, Hindi, Telugu",1.3,1,62
+HOSP_0658,Vijayawada,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,500,2136,2636,40,4.2,26,"English, Telugu",19.1,1,75
+HOSP_0659,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,2273,2573,30,4.4,4,"English, Tamil",20.9,1,63
+HOSP_0660,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,2744,3044,24,3.5,4,"English, Hindi",9.2,1,98
+HOSP_0661,Chennai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,2508,2708,62,4.5,11,"English, Kannada",13.9,1,91
+HOSP_0662,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,2403,2603,49,4.0,24,"English, Kannada",4.0,1,78
+HOSP_0663,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,918,1218,67,4.3,6,"English, Kannada",6.3,1,75
+HOSP_0664,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,2413,3413,35,3.8,14,"English, Hindi, Telugu",1.5,1,75
+HOSP_0665,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,300,1396,1696,63,3.7,22,"English, Tamil",17.3,1,79
+HOSP_0666,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,2558,2758,30,4.2,9,"English, Kannada",8.1,1,91
+HOSP_0667,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,1392,1592,59,3.9,19,"English, Hindi",12.1,0,88
+HOSP_0668,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,1220,2220,29,4.0,12,"English, Hindi, Telugu",17.2,1,98
+HOSP_0669,Vijayawada,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,2973,3273,76,3.8,8,"English, Hindi, Telugu",14.7,0,79
+HOSP_0670,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,3345,3545,82,4.1,3,"English, Kannada",6.3,1,93
+HOSP_0671,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,1904,2904,45,4.0,12,"English, Hindi",7.8,1,71
+HOSP_0672,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,3044,3294,44,3.6,4,"English, Tamil",15.9,1,72
+HOSP_0673,Bangalore,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,1965,2165,75,3.7,14,"English, Kannada",19.8,1,72
+HOSP_0674,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,3159,3409,88,4.6,13,"English, Hindi",18.9,1,65
+HOSP_0675,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,2373,2673,71,4.7,23,"English, Tamil",10.1,0,71
+HOSP_0676,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,250,2870,3120,32,3.7,10,"English, Kannada",0.9,0,89
+HOSP_0677,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,1191,1991,44,4.3,27,"English, Hindi",5.2,1,78
+HOSP_0678,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,300,3074,3374,41,3.5,28,"English, Tamil",11.7,1,88
+HOSP_0679,Delhi,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,528,728,30,4.7,28,"English, Kannada",9.1,1,64
+HOSP_0680,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,2881,3681,27,3.5,13,"English, Hindi",12.5,1,89
+HOSP_0681,Hyderabad,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,2011,2211,79,3.7,4,"English, Hindi",21.8,0,83
+HOSP_0682,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,1395,1595,88,3.6,28,"English, Telugu",13.6,1,81
+HOSP_0683,Kadapa,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,900,1150,27,4.2,12,"English, Hindi, Telugu",7.9,1,61
+HOSP_0684,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,250,1374,1624,72,4.1,8,"English, Tamil",2.6,0,65
+HOSP_0685,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,914,1214,87,3.8,7,"English, Tamil",6.5,1,64
+HOSP_0686,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,1898,2398,43,4.8,15,"English, Hindi",8.6,1,83
+HOSP_0687,Vijayawada,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,500,438,938,72,3.8,5,"English, Kannada",5.6,0,75
+HOSP_0688,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,1069,1369,38,3.5,8,"English, Tamil",10.5,0,73
+HOSP_0689,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,3205,4005,32,4.1,25,"English, Hindi, Telugu",20.4,1,65
+HOSP_0690,Chennai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,1340,1840,54,4.0,5,"English, Kannada",20.4,1,81
+HOSP_0691,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,566,1366,83,3.6,19,"English, Telugu",13.7,1,89
+HOSP_0692,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,330,830,25,3.7,4,"English, Hindi",0.9,1,96
+HOSP_0693,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,3039,3839,59,4.9,22,"English, Hindi, Telugu",2.3,1,61
+HOSP_0694,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,2004,3004,81,4.5,21,"English, Hindi, Telugu",21.9,1,84
+HOSP_0695,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,2679,2979,19,4.4,9,"English, Hindi, Telugu",1.3,1,79
+HOSP_0696,Vijayawada,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,2547,2747,64,4.5,18,"English, Telugu",6.9,1,98
+HOSP_0697,Vijayawada,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,1027,2027,61,4.2,10,"English, Telugu",0.9,1,91
+HOSP_0698,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,500,3178,3678,83,3.9,11,"English, Telugu",21.9,1,66
+HOSP_0699,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,359,1159,69,4.1,28,"English, Telugu",11.6,0,74
+HOSP_0700,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,700,900,37,4.3,19,"English, Telugu",13.6,1,78
+HOSP_0701,Kadapa,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,2813,3613,37,4.0,3,"English, Telugu",14.9,0,76
+HOSP_0702,Bangalore,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,1294,2294,48,4.0,6,"English, Telugu",6.4,0,86
+HOSP_0703,Hyderabad,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,521,1321,21,4.0,28,"English, Kannada",7.8,1,95
+HOSP_0704,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,1606,2606,34,4.6,11,"English, Kannada",16.8,1,79
+HOSP_0705,Kadapa,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,1424,1624,84,4.9,17,"English, Hindi, Telugu",21.4,1,66
+HOSP_0706,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,1290,1590,43,3.7,19,"English, Kannada",2.5,1,86
+HOSP_0707,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,637,1137,32,4.9,11,"English, Kannada",11.6,1,81
+HOSP_0708,Vijayawada,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,3207,4007,77,4.8,19,"English, Kannada",18.3,1,74
+HOSP_0709,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,2810,3610,43,4.3,28,"English, Kannada",0.9,1,63
+HOSP_0710,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,1925,2225,89,4.2,4,"English, Tamil",18.6,1,77
+HOSP_0711,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,2037,3037,23,4.9,14,"English, Kannada",4.7,1,87
+HOSP_0712,Kadapa,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,320,520,24,4.6,21,"English, Hindi, Telugu",4.3,1,82
+HOSP_0713,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,2311,2811,86,4.1,21,"English, Tamil",1.9,1,92
+HOSP_0714,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,2902,3102,20,4.3,5,"English, Kannada",4.7,1,61
+HOSP_0715,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,1479,2479,28,3.5,19,"English, Tamil",2.7,1,83
+HOSP_0716,Vijayawada,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,1370,1620,89,4.5,26,"English, Hindi",23.1,1,87
+HOSP_0717,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,2230,3030,49,4.7,12,"English, Kannada",12.4,1,87
+HOSP_0718,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,2656,3456,86,3.9,6,"English, Hindi, Telugu",3.1,1,67
+HOSP_0719,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,1037,1837,21,4.6,9,"English, Kannada",1.7,1,97
+HOSP_0720,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,250,1687,1937,39,4.4,7,"English, Tamil",12.8,1,79
+HOSP_0721,Chennai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,1171,1471,81,4.1,25,"English, Hindi, Telugu",5.8,1,78
+HOSP_0722,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,509,809,55,3.8,12,"English, Hindi",18.1,1,78
+HOSP_0723,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,500,3358,3858,33,4.4,23,"English, Tamil",21.0,1,69
+HOSP_0724,Vijayawada,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,2094,3094,89,4.9,14,"English, Tamil",8.9,0,89
+HOSP_0725,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,1672,1922,88,4.4,25,"English, Hindi, Telugu",15.7,1,65
+HOSP_0726,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,2502,3302,15,4.6,3,"English, Hindi, Telugu",3.0,1,93
+HOSP_0727,Kadapa,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,2077,2377,85,4.6,24,"English, Kannada",17.6,1,83
+HOSP_0728,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,2011,3011,22,3.5,5,"English, Hindi",4.5,1,96
+HOSP_0729,Chennai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,3450,3700,31,4.8,16,"English, Kannada",18.3,1,92
+HOSP_0730,Delhi,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,1528,2328,35,4.0,7,"English, Telugu",17.3,1,72
+HOSP_0731,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,2586,2786,60,4.2,11,"English, Hindi",8.2,1,69
+HOSP_0732,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,2564,2764,25,4.1,6,"English, Hindi, Telugu",6.5,1,99
+HOSP_0733,Vijayawada,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,1097,1597,26,3.9,15,"English, Kannada",16.4,0,63
+HOSP_0734,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,1800,2800,89,4.5,28,"English, Hindi, Telugu",25.0,1,66
+HOSP_0735,Kadapa,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,2921,3171,87,4.2,15,"English, Hindi, Telugu",17.0,1,83
+HOSP_0736,Delhi,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,250,2488,2738,45,4.2,29,"English, Hindi",20.8,1,68
+HOSP_0737,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,1314,2114,45,4.9,28,"English, Tamil",3.1,1,84
+HOSP_0738,Bangalore,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,1803,2803,81,5.0,9,"English, Hindi, Telugu",20.9,1,67
+HOSP_0739,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,1612,1912,56,4.2,16,"English, Tamil",8.6,1,88
+HOSP_0740,Chennai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,1531,1731,33,4.3,10,"English, Hindi, Telugu",7.8,1,90
+HOSP_0741,Chennai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,802,1302,31,3.7,9,"English, Telugu",22.2,1,98
+HOSP_0742,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,2981,3981,57,3.7,4,"English, Hindi",4.3,0,67
+HOSP_0743,Vijayawada,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,250,3103,3353,45,4.9,26,"English, Hindi",13.1,1,79
+HOSP_0744,Kadapa,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,2568,2768,68,3.9,10,"English, Tamil",16.6,1,96
+HOSP_0745,Mumbai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,2209,2509,47,3.6,24,"English, Kannada",21.1,0,82
+HOSP_0746,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,3366,3666,52,4.5,19,"English, Kannada",17.4,0,69
+HOSP_0747,Chennai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,2392,2642,73,3.9,19,"English, Kannada",18.3,1,70
+HOSP_0748,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,986,1986,48,4.6,19,"English, Kannada",3.6,1,77
+HOSP_0749,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,300,2650,2950,20,3.7,18,"English, Telugu",12.6,0,71
+HOSP_0750,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,3170,4170,15,4.1,23,"English, Hindi, Telugu",22.3,1,66
+HOSP_0751,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,2441,3241,85,3.6,28,"English, Tamil",1.4,1,63
+HOSP_0752,Chennai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,3000,3200,37,4.0,7,"English, Hindi",21.2,1,90
+HOSP_0753,Vijayawada,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,2221,3021,29,4.3,4,"English, Kannada",5.7,1,75
+HOSP_0754,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,3287,3487,33,3.6,10,"English, Hindi, Telugu",21.5,1,70
+HOSP_0755,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,914,1114,84,4.2,13,"English, Telugu",15.4,1,96
+HOSP_0756,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,2802,3802,87,3.6,3,"English, Tamil",6.4,1,70
+HOSP_0757,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,3216,4016,79,3.5,20,"English, Hindi",18.0,1,88
+HOSP_0758,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,250,1120,1370,31,4.0,27,"English, Telugu",14.6,1,95
+HOSP_0759,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,1441,2241,40,4.3,22,"English, Hindi",2.4,0,80
+HOSP_0760,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,819,1319,17,4.8,3,"English, Telugu",18.6,1,77
+HOSP_0761,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,2224,3024,41,4.0,16,"English, Tamil",9.9,0,89
+HOSP_0762,Kadapa,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,2359,3359,42,4.7,13,"English, Hindi",11.4,1,82
+HOSP_0763,Bangalore,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,1956,2156,88,3.9,8,"English, Kannada",23.4,1,82
+HOSP_0764,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,1048,1248,51,3.6,8,"English, Telugu",18.3,1,74
+HOSP_0765,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,552,1552,84,4.2,12,"English, Hindi",20.5,1,71
+HOSP_0766,Chennai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,3357,3607,53,4.2,6,"English, Kannada",14.0,0,83
+HOSP_0767,Kadapa,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,3047,3847,16,4.6,5,"English, Tamil",12.6,0,70
+HOSP_0768,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,1461,1961,52,4.5,20,"English, Telugu",2.7,0,83
+HOSP_0769,Chennai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,1366,1616,40,3.7,12,"English, Hindi, Telugu",7.8,1,60
+HOSP_0770,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,770,1570,35,4.6,14,"English, Kannada",4.2,1,92
+HOSP_0771,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,300,323,623,74,3.7,15,"English, Hindi, Telugu",6.7,1,75
+HOSP_0772,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,1246,1546,49,4.0,7,"English, Hindi",0.9,1,87
+HOSP_0773,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,300,2335,2635,24,4.7,16,"English, Kannada",17.1,0,91
+HOSP_0774,Mumbai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,684,984,70,4.4,12,"English, Telugu",8.0,1,66
+HOSP_0775,Bangalore,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,1101,1301,63,4.7,22,"English, Hindi, Telugu",6.5,1,63
+HOSP_0776,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,445,1445,57,3.5,8,"English, Tamil",17.8,1,75
+HOSP_0777,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,300,786,1086,51,3.6,28,"English, Hindi, Telugu",14.0,0,79
+HOSP_0778,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,300,2852,3152,88,4.0,6,"English, Hindi, Telugu",14.3,0,77
+HOSP_0779,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,2892,3142,72,3.7,5,"English, Hindi",21.4,1,80
+HOSP_0780,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,740,1040,83,3.9,24,"English, Hindi",14.9,1,84
+HOSP_0781,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,1485,2485,77,4.2,19,"English, Hindi",4.4,1,90
+HOSP_0782,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,1765,2765,28,4.3,23,"English, Telugu",7.5,1,63
+HOSP_0783,Bangalore,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,725,1725,43,4.0,12,"English, Telugu",3.9,1,80
+HOSP_0784,Kadapa,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,2535,3035,75,4.1,25,"English, Hindi",23.6,0,92
+HOSP_0785,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,1589,2389,68,3.7,15,"English, Hindi",17.4,1,87
+HOSP_0786,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,3256,3456,28,3.7,12,"English, Tamil",13.6,1,76
+HOSP_0787,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,1016,1816,73,3.8,8,"English, Hindi",16.8,0,61
+HOSP_0788,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,2703,3203,68,4.9,5,"English, Hindi",20.3,0,93
+HOSP_0789,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,2077,3077,16,3.6,12,"English, Kannada",24.1,1,72
+HOSP_0790,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,1648,1898,33,4.0,29,"English, Tamil",4.4,0,80
+HOSP_0791,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,3189,3439,40,4.3,16,"English, Tamil",21.0,1,65
+HOSP_0792,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,2622,2822,65,3.5,13,"English, Hindi",22.8,1,85
+HOSP_0793,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,250,980,1230,37,4.6,27,"English, Telugu",8.0,1,72
+HOSP_0794,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,3146,3946,46,4.0,10,"English, Tamil",11.1,1,91
+HOSP_0795,Chennai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,2452,3252,79,3.8,25,"English, Kannada",11.9,0,70
+HOSP_0796,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,2811,3011,49,4.3,11,"English, Tamil",12.2,0,73
+HOSP_0797,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,3402,4402,72,3.7,28,"English, Telugu",10.8,1,78
+HOSP_0798,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,300,1559,1859,31,4.7,11,"English, Hindi, Telugu",2.2,1,79
+HOSP_0799,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,1014,2014,66,4.1,29,"English, Kannada",15.6,1,86
+HOSP_0800,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,2855,3355,82,4.3,11,"English, Kannada",16.4,1,85
+HOSP_0801,Hyderabad,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,500,3173,3673,33,3.6,19,"English, Hindi, Telugu",1.7,1,61
+HOSP_0802,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,3064,4064,72,4.4,16,"English, Hindi, Telugu",0.6,1,92
+HOSP_0803,Vijayawada,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,3000,4000,76,4.8,18,"English, Telugu",6.5,0,62
+HOSP_0804,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,3387,3887,73,4.5,13,"English, Hindi",13.5,1,71
+HOSP_0805,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,500,1833,2333,37,4.8,3,"English, Hindi, Telugu",16.7,1,97
+HOSP_0806,Vijayawada,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,1910,2410,43,4.6,27,"English, Kannada",19.4,1,61
+HOSP_0807,Delhi,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,2905,3105,87,4.8,25,"English, Hindi, Telugu",11.0,1,75
+HOSP_0808,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,2106,2906,79,3.9,8,"English, Kannada",14.7,1,62
+HOSP_0809,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,1030,1230,71,3.8,19,"English, Hindi, Telugu",19.3,1,88
+HOSP_0810,Kadapa,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,3234,4034,44,3.8,5,"English, Hindi",20.2,1,61
+HOSP_0811,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,312,512,42,3.6,22,"English, Hindi",14.0,0,68
+HOSP_0812,Kadapa,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,2262,3062,58,5.0,3,"English, Kannada",0.7,0,95
+HOSP_0813,Vijayawada,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,1688,1888,89,4.8,20,"English, Kannada",4.3,0,84
+HOSP_0814,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,1334,1534,78,3.5,20,"English, Hindi",17.4,1,73
+HOSP_0815,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,742,942,86,4.7,11,"English, Tamil",12.0,1,89
+HOSP_0816,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,313,563,15,4.1,27,"English, Telugu",7.5,1,88
+HOSP_0817,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,1606,1856,88,3.8,19,"English, Kannada",1.0,0,88
+HOSP_0818,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,2693,2893,78,4.6,17,"English, Hindi, Telugu",12.4,1,83
+HOSP_0819,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,300,3073,3373,29,3.6,29,"English, Kannada",12.3,1,60
+HOSP_0820,Kadapa,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,2154,2654,61,3.9,19,"English, Kannada",5.4,0,69
+HOSP_0821,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,250,404,654,24,4.3,9,"English, Kannada",18.1,0,74
+HOSP_0822,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,3427,4227,82,4.0,9,"English, Telugu",17.7,1,99
+HOSP_0823,Vijayawada,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,300,741,1041,47,3.6,19,"English, Hindi",8.5,0,66
+HOSP_0824,Mumbai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,329,1329,37,4.2,12,"English, Tamil",21.7,1,66
+HOSP_0825,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,250,2478,2728,49,3.7,22,"English, Telugu",23.4,1,91
+HOSP_0826,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,3147,3347,66,4.5,23,"English, Telugu",7.1,0,74
+HOSP_0827,Delhi,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,767,1567,52,4.1,25,"English, Tamil",17.9,1,65
+HOSP_0828,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,312,1112,57,4.8,21,"English, Hindi, Telugu",18.9,1,85
+HOSP_0829,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,2723,3723,43,3.9,14,"English, Hindi, Telugu",19.6,1,69
+HOSP_0830,Kadapa,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,3482,3782,16,4.1,19,"English, Telugu",22.9,1,77
+HOSP_0831,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,2031,2331,55,3.8,17,"English, Telugu",18.5,1,98
+HOSP_0832,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,2012,3012,55,3.9,7,"English, Tamil",9.9,1,83
+HOSP_0833,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,595,1395,20,3.7,6,"English, Tamil",14.4,1,66
+HOSP_0834,Kadapa,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,1336,1536,25,4.3,28,"English, Kannada",24.3,0,63
+HOSP_0835,Vijayawada,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,250,2555,2805,47,4.2,12,"English, Hindi",22.2,1,62
+HOSP_0836,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,1859,2109,78,3.5,6,"English, Telugu",17.5,0,89
+HOSP_0837,Kadapa,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,1388,1638,18,4.8,3,"English, Tamil",7.0,0,69
+HOSP_0838,Vijayawada,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,1891,2091,35,4.2,13,"English, Tamil",5.2,1,72
+HOSP_0839,Kadapa,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,300,1181,1481,61,4.8,28,"English, Kannada",3.5,1,69
+HOSP_0840,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,2407,3407,27,4.6,17,"English, Hindi",14.5,1,87
+HOSP_0841,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,868,1068,63,4.9,19,"English, Hindi",8.9,0,65
+HOSP_0842,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,556,756,46,4.4,5,"English, Hindi",16.5,1,61
+HOSP_0843,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,1689,2189,50,4.1,19,"English, Kannada",2.3,1,63
+HOSP_0844,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,345,1145,56,4.3,18,"English, Tamil",9.4,1,75
+HOSP_0845,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,2049,2249,31,4.4,17,"English, Tamil",5.2,1,90
+HOSP_0846,Chennai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,2379,3379,46,4.8,15,"English, Tamil",13.2,1,69
+HOSP_0847,Bangalore,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,772,1272,45,3.7,22,"English, Kannada",20.8,1,76
+HOSP_0848,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,2196,3196,36,4.5,18,"English, Tamil",14.1,1,94
+HOSP_0849,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,250,446,696,59,4.6,25,"English, Telugu",6.2,1,95
+HOSP_0850,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,3027,3277,52,3.7,11,"English, Hindi, Telugu",13.1,1,61
+HOSP_0851,Chennai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,2985,3285,56,3.9,19,"English, Tamil",9.4,1,66
+HOSP_0852,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,2913,3713,75,4.3,20,"English, Telugu",8.5,1,75
+HOSP_0853,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,683,1683,21,4.5,18,"English, Kannada",18.6,0,76
+HOSP_0854,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,1942,2942,63,4.0,19,"English, Kannada",14.5,1,64
+HOSP_0855,Chennai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,1487,1787,17,5.0,25,"English, Hindi",15.1,1,71
+HOSP_0856,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,1856,2156,66,4.3,22,"English, Tamil",5.0,1,69
+HOSP_0857,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,2375,2625,67,3.7,23,"English, Kannada",13.4,1,69
+HOSP_0858,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,2476,2726,49,3.8,28,"English, Tamil",1.1,0,96
+HOSP_0859,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,1740,1940,75,4.9,28,"English, Kannada",11.5,1,92
+HOSP_0860,Kadapa,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,3010,3810,82,4.5,13,"English, Hindi, Telugu",22.4,1,97
+HOSP_0861,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,2330,3130,74,5.0,22,"English, Hindi, Telugu",8.4,0,81
+HOSP_0862,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,2391,2691,30,4.3,8,"English, Hindi",20.9,0,98
+HOSP_0863,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,2672,3472,84,4.0,27,"English, Hindi",12.7,1,69
+HOSP_0864,Kadapa,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,1710,2510,73,4.0,4,"English, Hindi",11.3,1,91
+HOSP_0865,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,2595,2845,83,4.9,9,"English, Hindi, Telugu",8.8,1,77
+HOSP_0866,Kadapa,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,3312,3512,86,4.1,6,"English, Telugu",24.3,1,97
+HOSP_0867,Mumbai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,3244,3494,18,3.9,28,"English, Hindi",23.3,0,80
+HOSP_0868,Kadapa,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,1410,1660,76,4.0,12,"English, Kannada",18.8,1,85
+HOSP_0869,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,827,1127,17,4.6,20,"English, Hindi",16.2,1,80
+HOSP_0870,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,2550,3550,47,4.8,23,"English, Kannada",20.8,0,84
+HOSP_0871,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,250,574,824,34,5.0,12,"English, Hindi, Telugu",1.6,1,97
+HOSP_0872,Vijayawada,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,686,1186,65,4.4,26,"English, Kannada",21.5,1,96
+HOSP_0873,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,2758,2958,59,3.8,28,"English, Tamil",16.0,1,90
+HOSP_0874,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,300,2691,2991,86,3.6,8,"English, Kannada",1.4,1,79
+HOSP_0875,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,2927,3927,57,4.9,22,"English, Hindi",17.0,1,68
+HOSP_0876,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,572,872,58,4.5,10,"English, Telugu",20.7,1,71
+HOSP_0877,Kadapa,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,742,1542,32,5.0,3,"English, Tamil",20.4,1,84
+HOSP_0878,Hyderabad,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,989,1289,47,4.9,27,"English, Hindi",5.7,1,84
+HOSP_0879,Chennai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,2491,3291,31,4.9,29,"English, Hindi",5.1,1,71
+HOSP_0880,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,2380,2680,64,4.1,11,"English, Hindi",10.4,1,86
+HOSP_0881,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,3427,3627,60,5.0,16,"English, Tamil",1.6,1,82
+HOSP_0882,Vijayawada,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,2820,3070,30,3.6,25,"English, Hindi, Telugu",4.5,1,82
+HOSP_0883,Delhi,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,2271,2471,16,4.7,20,"English, Hindi, Telugu",22.3,1,67
+HOSP_0884,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,2607,2807,55,4.5,9,"English, Hindi, Telugu",7.8,1,65
+HOSP_0885,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,3181,3981,24,4.8,17,"English, Hindi, Telugu",19.4,1,67
+HOSP_0886,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,500,453,953,24,4.6,7,"English, Hindi, Telugu",7.0,0,62
+HOSP_0887,Bangalore,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,300,841,1141,89,3.8,8,"English, Hindi",14.5,1,90
+HOSP_0888,Bangalore,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,500,442,942,55,4.2,15,"English, Telugu",22.5,1,72
+HOSP_0889,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,1913,2713,28,4.5,9,"English, Kannada",8.8,1,89
+HOSP_0890,Kadapa,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,1376,1576,74,3.9,12,"English, Hindi, Telugu",4.0,1,61
+HOSP_0891,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,1629,2429,33,3.8,24,"English, Hindi, Telugu",23.2,1,70
+HOSP_0892,Kadapa,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,2454,2754,74,4.3,6,"English, Tamil",0.5,0,75
+HOSP_0893,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,1894,2144,33,4.5,16,"English, Kannada",4.5,1,91
+HOSP_0894,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,1092,1342,75,4.0,3,"English, Kannada",4.4,1,87
+HOSP_0895,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,2521,3321,75,4.4,20,"English, Kannada",0.9,1,72
+HOSP_0896,Chennai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,1892,2692,85,4.4,24,"English, Tamil",3.0,1,88
+HOSP_0897,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,1061,1861,49,3.5,21,"English, Hindi, Telugu",20.2,0,72
+HOSP_0898,Mumbai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,527,1527,39,4.5,17,"English, Tamil",21.4,1,80
+HOSP_0899,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,1704,2004,74,4.9,12,"English, Tamil",23.4,1,87
+HOSP_0900,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,780,1780,30,4.7,7,"English, Hindi",16.9,1,64
+HOSP_0901,Kadapa,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,1671,2171,44,4.3,29,"English, Tamil",6.4,1,77
+HOSP_0902,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,1382,2182,16,4.9,13,"English, Tamil",16.0,0,93
+HOSP_0903,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,2318,3118,49,3.8,14,"English, Hindi",10.1,1,79
+HOSP_0904,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,500,2849,3349,52,4.3,17,"English, Hindi",5.6,0,76
+HOSP_0905,Vijayawada,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,1573,1873,27,3.6,4,"English, Hindi, Telugu",15.6,0,75
+HOSP_0906,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,1999,2799,55,4.0,11,"English, Kannada",7.7,1,61
+HOSP_0907,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,1555,2355,70,4.4,8,"English, Kannada",24.3,1,77
+HOSP_0908,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,434,634,22,4.7,9,"English, Hindi",8.6,1,74
+HOSP_0909,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,3265,3765,18,4.1,8,"English, Telugu",11.7,1,87
+HOSP_0910,Kadapa,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,3278,4078,30,4.1,20,"English, Hindi, Telugu",10.3,1,86
+HOSP_0911,Chennai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,2849,3649,49,4.8,8,"English, Hindi",10.3,1,94
+HOSP_0912,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,1662,1962,69,4.6,14,"English, Hindi",24.8,1,84
+HOSP_0913,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,300,3409,3709,25,4.3,3,"English, Hindi",15.4,1,85
+HOSP_0914,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,2079,2879,85,4.6,24,"English, Kannada",8.2,1,62
+HOSP_0915,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,1056,1356,54,3.8,16,"English, Kannada",19.3,1,74
+HOSP_0916,Kadapa,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,426,726,43,5.0,17,"English, Telugu",16.4,1,76
+HOSP_0917,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,457,1257,58,4.6,25,"English, Tamil",7.3,0,66
+HOSP_0918,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,942,1942,80,4.8,9,"English, Tamil",1.4,0,88
+HOSP_0919,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,1963,2463,58,3.5,28,"English, Tamil",22.4,0,89
+HOSP_0920,Bangalore,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,598,848,21,3.7,27,"English, Hindi",19.1,1,74
+HOSP_0921,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,300,2438,2738,41,3.8,22,"English, Telugu",8.4,0,67
+HOSP_0922,Kadapa,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,3273,3473,35,3.9,4,"English, Telugu",3.4,1,75
+HOSP_0923,Chennai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,2845,3045,39,4.6,12,"English, Tamil",2.8,0,82
+HOSP_0924,Chennai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,2861,3661,45,3.6,27,"English, Kannada",21.2,1,67
+HOSP_0925,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,1973,2973,35,3.8,25,"English, Tamil",8.7,1,93
+HOSP_0926,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,2472,3272,86,4.7,13,"English, Kannada",16.2,1,88
+HOSP_0927,Kadapa,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,793,1593,17,3.9,17,"English, Telugu",13.6,1,60
+HOSP_0928,Mumbai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,2106,2356,47,3.7,17,"English, Tamil",12.1,1,78
+HOSP_0929,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,2348,2848,65,4.0,6,"English, Hindi, Telugu",12.3,1,82
+HOSP_0930,Chennai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,474,974,35,4.9,11,"English, Telugu",12.3,1,76
+HOSP_0931,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,250,3446,3696,48,4.6,4,"English, Hindi, Telugu",8.6,1,93
+HOSP_0932,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,250,1082,1332,56,4.2,25,"English, Tamil",4.0,1,95
+HOSP_0933,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,396,696,84,3.6,6,"English, Hindi, Telugu",11.4,1,65
+HOSP_0934,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,1070,1870,66,4.1,3,"English, Kannada",20.5,0,73
+HOSP_0935,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,1991,2491,85,4.9,27,"English, Telugu",5.3,1,73
+HOSP_0936,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,2389,2689,36,4.0,4,"English, Hindi",6.4,1,84
+HOSP_0937,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,896,1696,25,5.0,6,"English, Hindi",8.8,1,85
+HOSP_0938,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,1677,2177,23,4.4,8,"English, Hindi, Telugu",12.1,1,81
+HOSP_0939,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,2600,3100,23,4.5,29,"English, Telugu",21.9,1,69
+HOSP_0940,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,250,753,1003,77,4.0,29,"English, Hindi",6.4,1,63
+HOSP_0941,Bangalore,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,500,3470,3970,88,4.8,8,"English, Tamil",17.1,1,78
+HOSP_0942,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,1916,2116,61,3.6,24,"English, Tamil",3.2,0,60
+HOSP_0943,Chennai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,250,581,831,33,3.9,27,"English, Hindi",6.3,1,80
+HOSP_0944,Kadapa,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,534,734,24,3.9,3,"English, Hindi",23.4,1,69
+HOSP_0945,Vijayawada,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,1629,1829,51,3.7,28,"English, Hindi",9.1,1,72
+HOSP_0946,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,1190,2190,49,4.9,7,"English, Hindi, Telugu",10.5,1,76
+HOSP_0947,Kadapa,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,1357,1557,24,4.7,9,"English, Hindi, Telugu",22.5,1,79
+HOSP_0948,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,1050,1300,26,4.6,28,"English, Hindi, Telugu",5.2,1,94
+HOSP_0949,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,2884,3184,73,3.7,24,"English, Tamil",13.4,1,80
+HOSP_0950,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,2603,3403,46,3.9,7,"English, Kannada",1.7,1,83
+HOSP_0951,Hyderabad,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,2913,3913,29,4.5,7,"English, Hindi, Telugu",15.0,0,82
+HOSP_0952,Chennai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,2057,2557,32,3.8,6,"English, Hindi",24.9,1,76
+HOSP_0953,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,2506,3506,73,4.6,18,"English, Kannada",8.3,1,71
+HOSP_0954,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,1505,1705,89,3.6,12,"English, Hindi, Telugu",13.3,1,78
+HOSP_0955,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,2700,3500,48,4.0,11,"English, Tamil",8.6,1,70
+HOSP_0956,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,1061,1861,56,3.6,23,"English, Telugu",11.2,1,83
+HOSP_0957,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,2087,2887,26,4.7,10,"English, Telugu",5.6,1,68
+HOSP_0958,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,961,1161,52,5.0,18,"English, Tamil",13.0,1,77
+HOSP_0959,Hyderabad,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,445,695,81,4.1,25,"English, Tamil",21.7,1,86
+HOSP_0960,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,681,881,38,3.8,16,"English, Hindi, Telugu",2.1,0,75
+HOSP_0961,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,339,839,76,3.8,7,"English, Hindi, Telugu",11.1,1,63
+HOSP_0962,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,2688,2938,71,4.4,18,"English, Kannada",3.6,1,85
+HOSP_0963,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,407,1407,86,4.2,14,"English, Hindi, Telugu",20.8,1,68
+HOSP_0964,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,500,3499,3999,84,4.0,11,"English, Hindi, Telugu",12.0,1,83
+HOSP_0965,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,720,1720,18,4.6,8,"English, Hindi",19.9,1,81
+HOSP_0966,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,607,1407,44,4.4,20,"English, Tamil",12.0,1,70
+HOSP_0967,Bangalore,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,2877,3177,59,4.4,25,"English, Kannada",20.8,1,81
+HOSP_0968,Chennai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,1604,2404,65,4.9,15,"English, Tamil",18.8,1,95
+HOSP_0969,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,1760,2560,68,4.9,15,"English, Hindi, Telugu",13.7,1,65
+HOSP_0970,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,2306,2556,52,4.3,6,"English, Tamil",24.9,1,86
+HOSP_0971,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,2346,2846,22,4.4,18,"English, Hindi",4.2,1,73
+HOSP_0972,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,934,1934,72,4.0,21,"English, Tamil",24.7,1,60
+HOSP_0973,Kadapa,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,2358,3358,67,3.6,10,"English, Kannada",6.5,1,86
+HOSP_0974,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,2118,3118,59,4.5,27,"English, Telugu",4.9,1,73
+HOSP_0975,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,1706,1906,69,4.9,26,"English, Hindi",5.3,0,75
+HOSP_0976,Kadapa,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,2058,2858,54,3.9,25,"English, Tamil",23.9,1,86
+HOSP_0977,Vijayawada,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,2647,2847,32,3.6,22,"English, Hindi, Telugu",22.7,1,89
+HOSP_0978,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,3365,3565,61,4.1,15,"English, Hindi, Telugu",3.2,1,95
+HOSP_0979,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,2192,2692,85,4.6,11,"English, Telugu",4.9,0,99
+HOSP_0980,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,2729,3529,41,3.9,4,"English, Kannada",11.0,1,60
+HOSP_0981,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,606,1106,68,4.9,24,"English, Hindi, Telugu",17.4,1,76
+HOSP_0982,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,2755,3755,65,4.5,26,"English, Telugu",1.7,1,80
+HOSP_0983,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,500,2672,3172,65,4.2,25,"English, Hindi, Telugu",16.7,1,67
+HOSP_0984,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,2880,3380,45,4.4,27,"English, Hindi, Telugu",10.1,1,96
+HOSP_0985,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,616,1116,28,4.8,22,"English, Telugu",22.0,1,64
+HOSP_0986,Kadapa,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,500,2897,3397,66,4.7,25,"English, Kannada",3.3,0,88
+HOSP_0987,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,2618,3618,28,5.0,18,"English, Telugu",15.0,1,88
+HOSP_0988,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,618,1118,87,4.5,26,"English, Kannada",12.4,1,63
+HOSP_0989,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,300,2602,2902,55,4.1,6,"English, Telugu",7.4,0,65
+HOSP_0990,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,2967,3217,83,3.9,28,"English, Telugu",19.3,0,90
+HOSP_0991,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,250,3476,3726,83,4.3,5,"English, Tamil",4.1,1,83
+HOSP_0992,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,2086,2886,89,4.3,11,"English, Hindi",13.3,1,85
+HOSP_0993,Kadapa,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,2114,2364,44,3.7,14,"English, Hindi",10.5,1,69
+HOSP_0994,Delhi,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,2272,3072,15,4.4,21,"English, Kannada",19.1,1,60
+HOSP_0995,Bangalore,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,1764,2264,17,4.8,22,"English, Kannada",15.3,1,85
+HOSP_0996,Vijayawada,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,2764,3014,52,4.1,16,"English, Tamil",20.3,0,69
+HOSP_0997,Kadapa,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,410,710,38,4.1,7,"English, Kannada",7.0,1,93
+HOSP_0998,Kadapa,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,2919,3119,26,4.5,14,"English, Tamil",24.0,1,93
+HOSP_0999,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,431,1231,78,4.8,28,"English, Telugu",22.1,1,65
+HOSP_1000,Bangalore,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,2590,3390,22,4.9,5,"English, Hindi, Telugu",4.8,1,78
+HOSP_1001,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,250,474,724,18,4.3,5,"English, Telugu",15.1,1,78
+HOSP_1002,Kadapa,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,632,1132,57,3.8,17,"English, Hindi",8.8,1,63
+HOSP_1003,Kadapa,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,2700,2950,58,3.5,3,"English, Kannada",0.8,1,81
+HOSP_1004,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,2802,3102,86,4.2,5,"English, Hindi",23.2,0,97
+HOSP_1005,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,407,1407,51,4.9,17,"English, Tamil",18.2,0,93
+HOSP_1006,Hyderabad,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,1173,1473,33,4.8,3,"English, Kannada",17.4,0,84
+HOSP_1007,Delhi,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,3245,4045,45,4.6,14,"English, Kannada",18.2,1,83
+HOSP_1008,Chennai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,312,612,86,4.7,10,"English, Kannada",10.0,0,87
+HOSP_1009,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,819,1119,27,4.4,5,"English, Telugu",18.5,1,95
+HOSP_1010,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,3108,3408,61,4.6,14,"English, Hindi, Telugu",5.3,1,87
+HOSP_1011,Vijayawada,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,1902,2152,50,4.1,27,"English, Hindi, Telugu",20.2,1,85
+HOSP_1012,Vijayawada,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,1580,2380,51,3.7,16,"English, Hindi",4.7,1,98
+HOSP_1013,Vijayawada,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,2871,3871,78,4.9,23,"English, Telugu",3.2,1,73
+HOSP_1014,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,250,1545,1795,66,4.0,23,"English, Hindi, Telugu",11.2,1,82
+HOSP_1015,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,300,2656,2956,72,4.8,19,"English, Telugu",18.1,1,61
+HOSP_1016,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,250,1836,2086,72,4.2,21,"English, Kannada",6.8,1,67
+HOSP_1017,Vijayawada,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,2480,3480,55,3.6,18,"English, Hindi, Telugu",15.3,1,73
+HOSP_1018,Delhi,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,3360,3560,50,4.0,18,"English, Tamil",6.3,1,65
+HOSP_1019,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,3176,3976,84,4.8,23,"English, Tamil",10.6,1,77
+HOSP_1020,Kadapa,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,672,1472,44,4.7,11,"English, Kannada",7.8,1,84
+HOSP_1021,Chennai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,1840,2090,33,4.3,27,"English, Hindi, Telugu",2.0,1,72
+HOSP_1022,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,2393,2893,22,3.8,21,"English, Kannada",3.1,1,85
+HOSP_1023,Vijayawada,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,300,825,1125,77,3.8,25,"English, Telugu",23.0,1,64
+HOSP_1024,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,1014,1314,73,4.7,17,"English, Hindi, Telugu",20.5,0,84
+HOSP_1025,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,2363,3363,58,4.5,8,"English, Kannada",11.0,1,63
+HOSP_1026,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,500,2578,3078,23,4.3,10,"English, Hindi",2.3,0,61
+HOSP_1027,Vijayawada,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,300,1919,2219,64,4.4,29,"English, Hindi, Telugu",15.9,1,85
+HOSP_1028,Mumbai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,1457,2457,75,4.7,19,"English, Hindi, Telugu",14.5,1,90
+HOSP_1029,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,1595,1795,52,4.6,28,"English, Hindi",3.5,0,71
+HOSP_1030,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,2225,2475,77,3.8,20,"English, Kannada",2.7,0,99
+HOSP_1031,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,762,1262,74,3.7,16,"English, Hindi, Telugu",21.7,1,90
+HOSP_1032,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,2431,2681,76,4.7,26,"English, Telugu",14.3,1,63
+HOSP_1033,Mumbai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,944,1944,78,4.4,25,"English, Kannada",5.2,1,84
+HOSP_1034,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,1280,1480,23,4.6,8,"English, Tamil",14.0,1,74
+HOSP_1035,Vijayawada,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,831,1831,47,4.3,6,"English, Kannada",18.2,1,87
+HOSP_1036,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,516,716,88,4.3,14,"English, Kannada",17.7,0,91
+HOSP_1037,Hyderabad,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,3278,3478,15,4.5,6,"English, Kannada",7.8,1,80
+HOSP_1038,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,1381,2181,51,3.6,14,"English, Hindi, Telugu",17.4,0,65
+HOSP_1039,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,3316,3516,73,3.7,3,"English, Hindi",2.6,1,72
+HOSP_1040,Vijayawada,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,1841,2141,37,4.5,21,"English, Tamil",3.3,1,78
+HOSP_1041,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,3085,3285,82,4.7,9,"English, Hindi, Telugu",1.5,1,85
+HOSP_1042,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,1855,2655,64,3.7,19,"English, Hindi, Telugu",16.0,0,89
+HOSP_1043,Vijayawada,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,2029,2279,62,4.2,5,"English, Telugu",13.2,1,85
+HOSP_1044,Mumbai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,1053,1353,68,4.0,25,"English, Hindi",9.3,0,82
+HOSP_1045,Kadapa,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,3331,4131,78,4.6,18,"English, Telugu",7.3,0,68
+HOSP_1046,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,2760,3060,51,3.7,21,"English, Telugu",19.7,1,92
+HOSP_1047,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,2955,3955,59,4.0,3,"English, Telugu",18.5,1,64
+HOSP_1048,Bangalore,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,939,1739,32,3.7,12,"English, Hindi, Telugu",21.9,1,82
+HOSP_1049,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,2247,3247,53,4.6,8,"English, Telugu",23.3,1,65
+HOSP_1050,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,3175,3975,64,4.3,9,"English, Tamil",1.5,1,83
+HOSP_1051,Bangalore,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,300,1971,2271,69,4.8,4,"English, Hindi, Telugu",12.0,1,91
+HOSP_1052,Vijayawada,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,1461,2261,73,4.5,25,"English, Kannada",6.6,1,82
+HOSP_1053,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,2759,3759,57,4.5,20,"English, Hindi, Telugu",9.3,0,69
+HOSP_1054,Mumbai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,2717,3517,35,4.6,5,"English, Hindi",2.0,0,98
+HOSP_1055,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,2509,3009,56,4.7,6,"English, Hindi, Telugu",8.1,1,64
+HOSP_1056,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,1104,1604,48,4.9,20,"English, Tamil",8.7,1,94
+HOSP_1057,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,2726,2926,86,3.9,23,"English, Kannada",7.1,0,87
+HOSP_1058,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,1343,2143,17,4.3,17,"English, Tamil",23.4,1,62
+HOSP_1059,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,1441,1641,40,4.5,4,"English, Hindi",18.2,1,64
+HOSP_1060,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,3460,3660,61,4.2,22,"English, Telugu",20.3,0,86
+HOSP_1061,Vijayawada,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,2158,2658,60,4.4,17,"English, Kannada",15.2,1,62
+HOSP_1062,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,669,1669,81,4.5,21,"English, Tamil",14.8,0,92
+HOSP_1063,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,300,2635,2935,89,4.0,26,"English, Tamil",22.8,0,94
+HOSP_1064,Delhi,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,1123,1923,50,4.8,21,"English, Tamil",10.4,0,71
+HOSP_1065,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,2709,2909,17,3.7,25,"English, Tamil",18.5,1,65
+HOSP_1066,Bangalore,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,966,1466,35,4.1,20,"English, Hindi, Telugu",21.1,1,87
+HOSP_1067,Vijayawada,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,458,708,74,3.8,7,"English, Hindi, Telugu",13.6,0,82
+HOSP_1068,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,1438,2438,52,3.8,27,"English, Kannada",11.6,1,62
+HOSP_1069,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,1451,1651,25,4.3,7,"English, Telugu",7.6,1,64
+HOSP_1070,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,2319,2819,62,4.3,17,"English, Kannada",2.5,1,97
+HOSP_1071,Vijayawada,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,3419,3619,24,4.8,16,"English, Kannada",20.6,1,95
+HOSP_1072,Hyderabad,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,1497,2297,47,4.3,17,"English, Hindi",15.9,1,62
+HOSP_1073,Chennai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,1740,1940,45,3.9,29,"English, Hindi, Telugu",4.9,1,61
+HOSP_1074,Vijayawada,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,2610,2810,82,3.9,8,"English, Tamil",14.1,0,83
+HOSP_1075,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,1331,1531,73,4.0,22,"English, Telugu",15.6,1,64
+HOSP_1076,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,1441,1741,84,4.8,20,"English, Hindi",11.3,1,96
+HOSP_1077,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,3488,3988,84,4.0,16,"English, Tamil",17.0,1,84
+HOSP_1078,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,250,3035,3285,57,4.4,3,"English, Hindi",16.5,0,70
+HOSP_1079,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,2181,2381,42,4.6,11,"English, Kannada",14.9,1,86
+HOSP_1080,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,1987,2987,38,3.9,21,"English, Telugu",13.5,0,91
+HOSP_1081,Chennai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,2202,2452,22,4.2,14,"English, Tamil",16.5,0,95
+HOSP_1082,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,1972,2272,53,4.1,28,"English, Kannada",22.0,0,69
+HOSP_1083,Kadapa,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,2528,3328,71,4.6,24,"English, Hindi",19.2,1,63
+HOSP_1084,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,1070,1370,42,3.5,12,"English, Hindi",10.5,1,80
+HOSP_1085,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,1783,2783,68,4.5,19,"English, Hindi",3.2,1,88
+HOSP_1086,Bangalore,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,315,565,20,4.3,7,"English, Telugu",14.8,1,89
+HOSP_1087,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,870,1370,42,4.3,22,"English, Telugu",7.2,0,70
+HOSP_1088,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,2128,3128,62,3.7,24,"English, Telugu",18.0,1,79
+HOSP_1089,Kadapa,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,459,959,40,3.7,16,"English, Kannada",19.9,0,81
+HOSP_1090,Chennai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,3431,4231,24,4.1,23,"English, Tamil",16.7,1,85
+HOSP_1091,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,431,631,82,4.2,19,"English, Hindi",18.0,1,64
+HOSP_1092,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,1296,2296,86,3.7,3,"English, Kannada",23.0,0,75
+HOSP_1093,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,1661,1861,59,4.5,5,"English, Kannada",15.5,0,94
+HOSP_1094,Vijayawada,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,2363,2863,67,4.0,22,"English, Hindi, Telugu",4.6,0,64
+HOSP_1095,Kadapa,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,1709,2709,53,4.2,10,"English, Hindi, Telugu",2.8,0,71
+HOSP_1096,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,1617,2617,29,3.6,20,"English, Hindi",7.6,1,90
+HOSP_1097,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,2044,2294,75,3.8,12,"English, Hindi, Telugu",18.1,1,72
+HOSP_1098,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,300,2337,2637,67,4.0,15,"English, Kannada",24.5,1,93
+HOSP_1099,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,500,792,1292,43,4.8,18,"English, Hindi",11.3,1,68
+HOSP_1100,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,1487,1787,85,4.0,14,"English, Telugu",1.6,1,81
+HOSP_1101,Mumbai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,500,830,1330,61,4.6,29,"English, Telugu",8.1,0,64
+HOSP_1102,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,1791,2041,19,4.7,28,"English, Kannada",2.3,1,80
+HOSP_1103,Chennai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,1100,1350,40,4.8,10,"English, Hindi",20.7,1,70
+HOSP_1104,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,500,1595,2095,36,4.6,17,"English, Hindi",6.7,1,80
+HOSP_1105,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,2560,2860,32,4.1,26,"English, Tamil",10.5,1,99
+HOSP_1106,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,979,1229,20,4.6,19,"English, Hindi, Telugu",4.3,0,80
+HOSP_1107,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,3447,4247,23,4.3,26,"English, Hindi, Telugu",6.1,1,64
+HOSP_1108,Chennai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,2911,3211,53,4.6,19,"English, Hindi, Telugu",6.5,0,86
+HOSP_1109,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,1680,1880,76,3.9,28,"English, Hindi",23.1,1,89
+HOSP_1110,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,2320,3120,17,4.3,21,"English, Hindi",1.7,1,78
+HOSP_1111,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,2166,2416,59,3.9,5,"English, Hindi, Telugu",23.4,1,78
+HOSP_1112,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,2643,2843,88,3.6,25,"English, Telugu",17.0,1,88
+HOSP_1113,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,3138,3938,22,4.9,18,"English, Telugu",17.6,0,98
+HOSP_1114,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,1841,2091,35,4.1,6,"English, Tamil",9.3,1,73
+HOSP_1115,Hyderabad,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,500,3462,3962,47,4.6,21,"English, Tamil",13.1,1,85
+HOSP_1116,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,2967,3217,44,4.4,22,"English, Telugu",8.5,1,63
+HOSP_1117,Vijayawada,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,1191,1691,27,4.9,28,"English, Telugu",10.6,1,60
+HOSP_1118,Delhi,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,2361,2661,81,4.1,20,"English, Hindi, Telugu",5.6,0,63
+HOSP_1119,Bangalore,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,300,3116,3416,47,3.8,22,"English, Kannada",17.0,0,73
+HOSP_1120,Delhi,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,2357,3357,38,4.3,20,"English, Hindi",16.4,1,72
+HOSP_1121,Hyderabad,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,1000,1152,2152,65,3.9,6,"English, Hindi",18.1,1,88
+HOSP_1122,Mumbai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,1945,2745,83,4.9,26,"English, Hindi",14.6,1,95
+HOSP_1123,Bangalore,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,300,1898,2198,78,4.7,8,"English, Tamil",15.3,1,96
+HOSP_1124,Kadapa,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,425,725,86,4.1,14,"English, Kannada",13.2,0,73
+HOSP_1125,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,1488,1988,18,4.0,28,"English, Kannada",14.6,0,78
+HOSP_1126,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,2356,2556,67,4.9,25,"English, Hindi",24.3,0,61
+HOSP_1127,Bangalore,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,1215,2215,53,3.8,20,"English, Hindi",8.8,1,78
+HOSP_1128,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,500,2080,2580,51,4.1,28,"English, Kannada",23.5,1,79
+HOSP_1129,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,1350,2150,86,4.3,19,"English, Hindi",6.7,1,61
+HOSP_1130,Delhi,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,2513,3513,74,4.9,27,"English, Hindi, Telugu",10.7,0,73
+HOSP_1131,Vijayawada,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,925,1425,82,4.1,5,"English, Telugu",15.0,1,95
+HOSP_1132,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,464,714,85,4.4,5,"English, Telugu",9.4,1,91
+HOSP_1133,Mumbai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,800,3241,4041,30,5.0,22,"English, Tamil",12.2,1,75
+HOSP_1134,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,816,1316,36,3.7,16,"English, Hindi, Telugu",22.3,1,81
+HOSP_1135,Kadapa,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,473,723,66,4.7,14,"English, Kannada",10.5,0,87
+HOSP_1136,Vijayawada,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,250,951,1201,85,4.8,17,"English, Hindi, Telugu",2.4,1,65
+HOSP_1137,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,3276,3476,20,4.7,9,"English, Hindi",16.3,1,98
+HOSP_1138,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,300,3207,3507,72,4.3,21,"English, Telugu",6.9,1,87
+HOSP_1139,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,643,843,80,4.4,10,"English, Telugu",14.3,0,99
+HOSP_1140,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,1354,1604,53,3.8,25,"English, Hindi, Telugu",5.4,0,86
+HOSP_1141,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,3131,3631,72,4.4,28,"English, Kannada",21.6,1,68
+HOSP_1142,Chennai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,421,1221,71,4.0,5,"English, Telugu",22.8,1,79
+HOSP_1143,Vijayawada,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,300,3017,3317,72,4.9,24,"English, Kannada",5.7,1,91
+HOSP_1144,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,2003,2203,71,4.3,5,"English, Kannada",16.4,1,90
+HOSP_1145,Chennai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,460,660,37,4.9,25,"English, Telugu",12.1,1,98
+HOSP_1146,Vijayawada,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,200,2184,2384,46,3.5,22,"English, Hindi, Telugu",7.6,1,63
+HOSP_1147,Chennai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,685,935,40,4.3,28,"English, Kannada",20.0,1,70
+HOSP_1148,Mumbai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,2242,3042,51,4.7,21,"English, Hindi, Telugu",19.8,1,69
+HOSP_1149,Vijayawada,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,500,1816,2316,80,4.6,7,"English, Telugu",2.1,0,61
+HOSP_1150,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,1677,2177,49,4.1,24,"English, Tamil",9.2,1,87
+HOSP_1151,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,2011,3011,49,4.0,16,"English, Hindi",14.8,0,88
+HOSP_1152,Delhi,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,200,2361,2561,38,4.6,27,"English, Hindi, Telugu",6.6,1,91
+HOSP_1153,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,800,3355,4155,28,4.6,21,"English, Hindi",23.5,1,63
+HOSP_1154,Bangalore,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,1000,1455,2455,86,4.2,4,"English, Tamil",15.8,1,97
+HOSP_1155,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,1000,1929,2929,24,3.8,10,"English, Kannada",0.7,1,75
+HOSP_1156,Hyderabad,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,518,1018,36,3.9,19,"English, Tamil",22.0,0,92
+HOSP_1157,Chennai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,300,2454,2754,83,3.9,15,"English, Hindi, Telugu",24.8,1,85
+HOSP_1158,Bangalore,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,499,1499,49,3.5,21,"English, Kannada",22.4,0,64
+HOSP_1159,Chennai,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,1701,2201,68,4.3,19,"English, Hindi, Telugu",6.8,1,67
+HOSP_1160,Kadapa,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,1976,2776,30,4.5,15,"English, Kannada",12.8,0,78
+HOSP_1161,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,609,859,20,4.0,24,"English, Tamil",7.2,1,86
+HOSP_1162,Kadapa,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,557,757,39,4.0,26,"English, Hindi",10.7,1,76
+HOSP_1163,Chennai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,2292,2792,41,4.7,3,"English, Telugu",7.0,1,95
+HOSP_1164,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,2882,3382,86,5.0,27,"English, Kannada",6.0,1,94
+HOSP_1165,Mumbai,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,857,1057,59,3.6,25,"English, Tamil",15.8,1,77
+HOSP_1166,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,500,1350,1850,16,3.9,9,"English, Tamil",2.3,0,61
+HOSP_1167,Chennai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,250,2283,2533,70,4.4,6,"English, Hindi",1.5,1,89
+HOSP_1168,Vijayawada,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,250,2168,2418,68,4.9,7,"English, Kannada",9.6,1,91
+HOSP_1169,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,300,1443,1743,39,4.8,23,"English, Telugu",4.8,1,83
+HOSP_1170,Hyderabad,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,3233,3733,30,4.2,11,"English, Hindi",11.7,0,77
+HOSP_1171,Bangalore,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,678,1678,63,4.1,3,"English, Telugu",12.7,1,61
+HOSP_1172,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,200,1784,1984,84,4.1,21,"English, Hindi, Telugu",13.8,1,70
+HOSP_1173,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,663,913,31,4.1,10,"English, Kannada",4.1,1,90
+HOSP_1174,Delhi,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,800,1469,2269,35,4.0,6,"English, Telugu",22.3,1,80
+HOSP_1175,Bangalore,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,2134,2434,65,4.0,7,"English, Kannada",5.5,1,98
+HOSP_1176,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,2242,2742,63,4.0,10,"English, Telugu",22.3,0,88
+HOSP_1177,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,500,2508,3008,43,3.6,25,"English, Telugu",18.3,0,67
+HOSP_1178,Hyderabad,"Stomach Pain, Acid Reflux",Gastritis / Ulcer,Gastroenterology,250,2580,2830,64,3.8,14,"English, Kannada",13.1,1,86
+HOSP_1179,Bangalore,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,1000,2791,3791,59,3.6,20,"English, Hindi",0.9,1,88
+HOSP_1180,Bangalore,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,958,1458,20,4.3,11,"English, Kannada",18.9,1,61
+HOSP_1181,Hyderabad,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,2592,2792,58,4.1,11,"English, Telugu",6.3,0,70
+HOSP_1182,Delhi,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,500,1848,2348,85,4.3,15,"English, Hindi",23.2,1,96
+HOSP_1183,Mumbai,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,250,695,945,76,4.7,29,"English, Telugu",19.6,1,86
+HOSP_1184,Mumbai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,300,927,1227,63,4.7,3,"English, Kannada",14.8,0,76
+HOSP_1185,Chennai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,200,3448,3648,47,3.7,7,"English, Kannada",15.7,1,70
+HOSP_1186,Hyderabad,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,500,2337,2837,80,4.7,25,"English, Kannada",13.8,1,97
+HOSP_1187,Kadapa,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,300,1609,1909,84,3.6,16,"English, Hindi",22.7,1,72
+HOSP_1188,Chennai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,500,1917,2417,23,4.9,18,"English, Hindi",10.0,0,83
+HOSP_1189,Chennai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,800,2380,3180,37,4.1,23,"English, Hindi",6.7,1,97
+HOSP_1190,Chennai,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,250,2693,2943,79,3.8,17,"English, Kannada",21.9,1,72
+HOSP_1191,Bangalore,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,500,1092,1592,64,5.0,14,"English, Kannada",7.5,1,89
+HOSP_1192,Vijayawada,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,200,1487,1687,78,5.0,18,"English, Telugu",0.7,1,63
+HOSP_1193,Kadapa,"Chest Pain, Shortness of Breath",Angina / Coronary Issue,Cardiology,500,1702,2202,54,4.2,27,"English, Tamil",15.8,1,99
+HOSP_1194,Kadapa,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,1000,1225,2225,33,4.9,10,"English, Hindi",0.6,1,87
+HOSP_1195,Vijayawada,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,1216,1716,20,4.3,17,"English, Kannada",24.9,1,73
+HOSP_1196,Hyderabad,"Joint Pain, Swelling",Arthritis / Fracture,Orthopedics,500,1989,2489,26,3.6,5,"English, Telugu",6.7,0,80
+HOSP_1197,Vijayawada,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,800,1536,2336,74,4.4,25,"English, Hindi, Telugu",12.7,0,80
+HOSP_1198,Chennai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,250,2933,3183,65,4.3,26,"English, Hindi",24.2,1,93
+HOSP_1199,Kadapa,"Severe Headache, Dizziness",Migraine / Neurological Concern,Neurology,250,2370,2620,57,4.4,17,"English, Hindi",19.9,1,60
+HOSP_1200,Chennai,"Unexplained Weight Loss, Fatigue",Oncology Evaluation,Oncology,500,1359,1859,59,4.5,28,"English, Kannada",14.2,1,97
